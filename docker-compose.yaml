@@ -73,20 +73,12 @@ services:
     container_name: airflow-init
     depends_on:
       - airflow-db
+    entrypoint: ["/bin/bash"]
+    command: ["/init_airflow.sh"]
+    volumes:
+      - ./airflow/init_airflow.sh:/init_airflow.sh
     environment:
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
-      AIRFLOW__CORE__EXECUTOR: LocalExecutor
-    command: >
-      bash -c "
-      airflow db migrate &&
-      airflow users create
-        --username admin
-        --password admin
-        --firstname Admin
-        --lastname User
-        --role Admin
-        --email admin@example.com
-      "
 
   # ====================
   # AIRFLOW WEBSERVER
