@@ -1,0 +1,83 @@
+######################################
+# Python
+######################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+.cache/
+.mypy_cache/
+.pytest_cache/
+.env
+.venv
+venv/
+ENV/
+
+######################################
+# Airflow
+######################################
+airflow/logs/
+airflow/logs/**
+airflow/plugins/__pycache__/
+airflow/*.log
+airflow/webserver_config.py
+airflow/airflow.cfg
+
+######################################
+# Docker
+######################################
+*.pid
+docker-compose.override.yml
+.env.docker
+
+######################################
+# Kafka
+######################################
+kafka-data/
+zookeeper-data/
+
+######################################
+# Postgres / PostGIS
+######################################
+postgis_data/
+airflow_db_data/
+*.sql~
+*.dump
+
+######################################
+# GTFS Data (large / generated)
+######################################
+data/
+data/**
+/opt/airflow/data/
+/opt/airflow/data/**
+gtfs.zip
+*.csv
+
+######################################
+# Logs
+######################################
+logs/
+*.log
+
+######################################
+# IDEs / Editors
+######################################
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+######################################
+# OS / Misc
+######################################
+*.bak
+*.tmp
+*.orig
