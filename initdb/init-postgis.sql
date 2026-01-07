@@ -148,3 +148,11 @@ ON vehicle_positions (route_id);
 
 CREATE INDEX IF NOT EXISTS idx_vehicle_positions_trip
 ON vehicle_positions (trip_id);
+
+ALTER TABLE stop_times
+ALTER COLUMN arrival_time TYPE INTEGER
+USING NULL;
+
+ALTER TABLE stop_times
+ALTER COLUMN departure_time TYPE INTEGER
+USING NULL;

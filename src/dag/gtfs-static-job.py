@@ -179,6 +179,12 @@ def static_gtfs_job():
         )
         conn.autocommit = False
 
+        def gtfs_time_to_seconds(t: str | None) -> int | None:
+            if not t or pd.isna(t):
+                return None
+            h, m, s = map(int, t.split(":"))
+            return h * 3600 + m * 60 + s
+
         try:
             with conn.cursor() as cur:
                 cur.execute(
@@ -326,15 +332,14 @@ def static_gtfs_job():
                             st.get("trip_id"),
                             st.get("stop_id"),
                             st.get("stop_sequence"),
-                            st.get("arrival_time"),
-                            st.get("departure_time"),
+                            gtfs_time_to_seconds(st.get("arrival_time")),
+                            gtfs_time_to_seconds(st.get("departure_time")),
                             version_id
                         )
                         for st in gtfs["stop_times"]
                     ],
                     page_size=2000
                 )
-
             conn.commit()
             logging.info("GTFS static data loaded successfully")
 

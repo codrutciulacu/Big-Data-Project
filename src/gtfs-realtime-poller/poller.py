@@ -25,7 +25,9 @@ GTFS_RT_ALERTS_URL = os.getenv(
 
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL", "10"))
 
-KAFKA_BOOTSTRAP_SERVERS = "localhost:9092"
+KAFKA_BOOTSTRAP_SERVERS = os.getenv(
+    "KAFKA_BOOTSTRAP_SERVERS", "localhost:29092"
+)
 
 TOPIC_VEHICLE_POSITIONS = "gtfs.rt.vehicle_positions"
 TOPIC_TRIP_UPDATES = "gtfs.rt.trip_updates"
@@ -39,7 +41,7 @@ logging.basicConfig(
 
 def create_producer():
     return Producer({
-        "bootstrap.servers": 'localhost:29092',
+        "bootstrap.servers": KAFKA_BOOTSTRAP_SERVERS,
         "linger.ms": 5
     })
 

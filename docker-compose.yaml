@@ -152,6 +152,45 @@ services:
     command: triggerer
     restart: unless-stopped
 
+
+  # ====================
+  # Real-time ingestion
+  # ====================
+  gtfs-db-ingestor:
+    build:
+      context: ./src/db-ingestion-service
+      dockerfile: Dockerfile
+    container_name: gtfs-db-ingestor
+    restart: unless-stopped
+    depends_on:
+      kafka:
+        condition: service_started
+      postgis:
+        condition: service_started
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      KAFKA_GROUP_ID: gtfs-rt-db-consumer
+      POSTGRES_HOST: postgis
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: gtfs
+      POSTGRES_USER: gtfs_user
+      POSTGRES_PASSWORD: gtfs_password
+
+  gtfs-rt-poller:
+    build:
+      context: ./src/gtfs-realtime-poller
+      dockerfile: Dockerfile
+    container_name: gtfs-realtime-poller
+    restart: unless-stopped
+    depends_on:
+      kafka:
+        condition: service_started
+      postgis:
+        condition: service_started
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      KAFKA_GROUP_ID: gtfs-rt-poller-consumer
+
 volumes:
   airflow_db_data:
   postgis_data:
