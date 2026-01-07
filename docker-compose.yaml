@@ -56,6 +56,15 @@ services:
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "kafka-broker-api-versions --bootstrap-server localhost:9092 > /dev/null 2>&1"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
 
   kafka-ui:
     image: provectuslabs/kafka-ui:latest
@@ -86,6 +95,11 @@ services:
     volumes:
       - postgis_data:/var/lib/postgresql/data
       - ./initdb:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U gtfs_user -d gtfs"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
 
   # ====================
   # AIRFLOW
@@ -161,12 +175,12 @@ services:
       context: ./src/db-ingestion-service
       dockerfile: Dockerfile
     container_name: gtfs-db-ingestor
-    restart: unless-stopped
     depends_on:
       kafka:
-        condition: service_started
+        condition: service_healthy
       postgis:
-        condition: service_started
+        condition: service_healthy
+    restart: unless-stopped
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       KAFKA_GROUP_ID: gtfs-rt-db-consumer
@@ -184,9 +198,7 @@ services:
     restart: unless-stopped
     depends_on:
       kafka:
-        condition: service_started
-      postgis:
-        condition: service_started
+        condition: service_healthy
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       KAFKA_GROUP_ID: gtfs-rt-poller-consumer

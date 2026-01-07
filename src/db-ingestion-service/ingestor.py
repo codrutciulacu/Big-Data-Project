@@ -174,8 +174,11 @@ def main():
                 continue
 
             if msg.error():
-                logging.error("Kafka error: %s", msg.error())
-                continue
+                if msg.error().fatal():
+                    raise RuntimeError(msg.error())
+                else:
+                    logging.warning("Kafka warning: %s", msg.error())
+                    continue
 
             try:
                 event = json.loads(msg.value().decode("utf-8"))
@@ -190,6 +193,9 @@ def main():
                 conn.rollback()
                 logging.exception("Failed to process message")
 
+    except Exception:
+        logging.exception("Error while running the app")
+        raise
     finally:
         consumer.close()
         conn.close()
