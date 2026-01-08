@@ -150,9 +150,13 @@ CREATE INDEX IF NOT EXISTS idx_vehicle_positions_trip
 ON vehicle_positions (trip_id);
 
 CREATE TABLE IF NOT EXISTS stop_base_demand (
-    stop_id TEXT PRIMARY KEY,
-    base_weight FLOAT NOT NULL
+  stop_id TEXT NOT NULL,
+  version_id INTEGER NOT NULL,
+  base_weight DOUBLE PRECISION NOT NULL,
+  PRIMARY KEY (stop_id, version_id),
+  FOREIGN KEY (version_id) REFERENCES gtfs_versions(version_id) ON DELETE CASCADE
 );
+
 
 CREATE TABLE IF NOT EXISTS passenger_flow_events (
     stop_id TEXT NOT NULL,
