@@ -174,3 +174,73 @@ SELECT
 FROM stop_times
 GROUP BY stop_id
 ON CONFLICT DO NOTHING;
+
+-- -----------------------
+-- Views for ML dataset
+-- -----------------------
+
+CREATE OR REPLACE VIEW stop_to_route AS
+SELECT DISTINCT st.stop_id, t.route_id
+FROM stop_times st
+JOIN trips t ON t.trip_id = st.trip_id;
+
+CREATE OR REPLACE VIEW passenger_demand_hourly AS
+SELECT
+  m.route_id,
+  date_trunc('hour', p.observed_at) AS hour_ts,
+  SUM(p.estimated_passengers)::double precision AS passengers
+FROM passenger_flow_events p
+JOIN stop_to_route m ON m.stop_id = p.stop_id
+GROUP BY m.route_id, date_trunc('hour', p.observed_at);
+
+CREATE OR REPLACE VIEW delay_hourly AS
+SELECT
+  route_id,
+  date_trunc('hour', observed_at) AS hour_ts,
+  COUNT(*) AS trip_update_events,
+  AVG(delay_seconds)::double precision AS avg_delay_seconds
+FROM trip_updates
+GROUP BY route_id, date_trunc('hour', observed_at);
+
+CREATE OR REPLACE VIEW vehicle_hourly AS
+SELECT
+  route_id,
+  date_trunc('hour', observed_at) AS hour_ts,
+  COUNT(*) AS vehicle_events
+FROM vehicle_positions
+GROUP BY route_id, date_trunc('hour', observed_at);
+
+CREATE OR REPLACE VIEW weather_hourly AS
+SELECT
+  date_trunc('hour', observed_at) AS hour_ts,
+  AVG(temperature_c)::double precision AS temperature_c,
+  AVG(precipitation_mm)::double precision AS precipitation_mm,
+  AVG(wind_speed_mps)::double precision AS wind_speed_mps
+FROM weather_observations
+GROUP BY date_trunc('hour', observed_at);
+
+CREATE OR REPLACE VIEW ml_dataset_hourly AS
+SELECT
+  pd.route_id,
+  pd.hour_ts,
+  pd.passengers,
+
+  COALESCE(dh.trip_update_events, 0) AS trip_update_events,
+  COALESCE(dh.avg_delay_seconds, 0) AS avg_delay_seconds,
+  COALESCE(vh.vehicle_events, 0) AS vehicle_events,
+
+  COALESCE(wh.temperature_c, 0) AS temperature_c,
+  COALESCE(wh.precipitation_mm, 0) AS precipitation_mm,
+  COALESCE(wh.wind_speed_mps, 0) AS wind_speed_mps,
+
+  EXTRACT(HOUR FROM pd.hour_ts) AS hour,
+  EXTRACT(DOW FROM pd.hour_ts) AS day_of_week,
+  (EXTRACT(HOUR FROM pd.hour_ts) BETWEEN 7 AND 9
+   OR EXTRACT(HOUR FROM pd.hour_ts) BETWEEN 16 AND 18)::int AS is_peak
+FROM passenger_demand_hourly pd
+LEFT JOIN delay_hourly dh
+  ON pd.route_id = dh.route_id AND pd.hour_ts = dh.hour_ts
+LEFT JOIN vehicle_hourly vh
+  ON pd.route_id = vh.route_id AND pd.hour_ts = vh.hour_ts
+LEFT JOIN weather_hourly wh
+  ON pd.hour_ts = wh.hour_ts;
