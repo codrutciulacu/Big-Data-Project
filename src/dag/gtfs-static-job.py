@@ -342,6 +342,7 @@ def static_gtfs_job():
                 )
             conn.commit()
             logging.info("GTFS static data loaded successfully")
+            return version_id
 
         except Exception:
             conn.rollback()
@@ -350,9 +351,38 @@ def static_gtfs_job():
 
         finally:
             conn.close()
+
+    @task()
+    def init_stop_base_demand(version_id: int):
+        conn = psycopg2.connect(
+            host="postgis",
+            port=5432,
+            dbname="gtfs",
+            user="gtfs_user",
+            password="gtfs_password"
+        )
+
+        with conn, conn.cursor() as cur:
+            cur.execute(
+                """
+                INSERT INTO stop_base_demand (stop_id, version_id, base_weight)
+                SELECT
+                    st.stop_id,
+                    %s,
+                    LEAST(50, GREATEST(5, COUNT(*) * 3))
+                FROM stop_times st
+                WHERE st.version_id = %s
+                GROUP BY st.stop_id
+                ON CONFLICT DO NOTHING;
+                """,
+                (version_id, version_id)
+            )
+
+        conn.close()
     
     zip_path = download()
     order_data = extract(zip_path)
     order_summary = process(order_data)
-    load(order_summary)
+    version_id = load(order_summary)
+    init_stop_base_demand(version_id)
 static_gtfs_job()

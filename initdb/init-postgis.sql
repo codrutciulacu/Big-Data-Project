@@ -74,8 +74,8 @@ CREATE TABLE IF NOT EXISTS stop_times (
     trip_id        TEXT NOT NULL,
     stop_id        TEXT NOT NULL,
     stop_sequence  INT NOT NULL,
-    arrival_time   TIME,
-    departure_time TIME,
+    arrival_time   INTEGER,
+    departure_time INTEGER,
     version_id     INT NOT NULL,
 
     PRIMARY KEY (trip_id, stop_sequence, version_id),
@@ -149,10 +149,24 @@ ON vehicle_positions (route_id);
 CREATE INDEX IF NOT EXISTS idx_vehicle_positions_trip
 ON vehicle_positions (trip_id);
 
-ALTER TABLE stop_times
-ALTER COLUMN arrival_time TYPE INTEGER
-USING NULL;
+CREATE TABLE IF NOT EXISTS stop_base_demand (
+    stop_id TEXT PRIMARY KEY,
+    base_weight FLOAT NOT NULL
+);
 
-ALTER TABLE stop_times
-ALTER COLUMN departure_time TYPE INTEGER
-USING NULL;
+CREATE TABLE IF NOT EXISTS passenger_flow_events (
+    stop_id TEXT NOT NULL,
+    observed_at TIMESTAMP NOT NULL,
+    estimated_passengers INT NOT NULL,
+    components JSONB NOT NULL,
+    source TEXT DEFAULT 'mock',
+    PRIMARY KEY (stop_id, observed_at)
+);
+
+INSERT INTO stop_base_demand (stop_id, base_weight)
+SELECT
+    stop_id,
+    LEAST(50, GREATEST(5, COUNT(*) * 3))
+FROM stop_times
+GROUP BY stop_id
+ON CONFLICT DO NOTHING;
