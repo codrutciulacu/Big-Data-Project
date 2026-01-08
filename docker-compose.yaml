@@ -202,6 +202,20 @@ services:
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       KAFKA_GROUP_ID: gtfs-rt-poller-consumer
+  ml:
+    build:
+      context: ./src/ml
+      dockerfile: Dockerfile
+    container_name: gtfs-ml
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: sleep infinity
+    depends_on:
+      postgis:
+        condition: service_healthy
+
+
 
 volumes:
   airflow_db_data:
