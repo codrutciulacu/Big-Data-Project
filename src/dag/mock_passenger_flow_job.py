@@ -5,6 +5,7 @@ import psycopg2
 import random
 import json
 import math
+from datetime import datetime
 
 DB_CFG = dict(
     host="postgis",
@@ -67,7 +68,8 @@ def mock_passenger_flow_pipeline():
 
     @task
     def generate_flow(generated_date: str):
-        ts = datetime.fromisoformat(generated_date)
+        generated_date_fixed = generated_date.replace("T", " ")
+        ts = datetime.strptime(generated_date_fixed, "%Y-%m-%d %H:%M:%S")
         hour = ts.hour
         dow = ts.weekday()
 
