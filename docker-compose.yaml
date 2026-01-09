@@ -214,6 +214,14 @@ services:
     depends_on:
       postgis:
         condition: service_healthy
+    environment:
+      RUNNING_IN_DOCKER: "1"
+      DB_HOST: postgis
+      DB_PORT: 5432
+      DB_NAME: gtfs
+      DB_USER: gtfs_user
+      DB_PASS: gtfs_password
+
 
 
 
