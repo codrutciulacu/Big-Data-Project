@@ -54,7 +54,12 @@ def ensure_parent_dir(path: Path):
 
 
 def write_json(path: Path, payload: Any, pretty: bool = True):
+    """
+    Write JSON to the specified path AND to frontend/public/exports/ for automatic sync.
+    """
     ensure_parent_dir(path)
+    
+    # Write to primary location (exports/)
     with path.open("w", encoding="utf-8") as f:
         json.dump(
             clean_json(payload),
@@ -63,6 +68,18 @@ def write_json(path: Path, payload: Any, pretty: bool = True):
             indent=2 if pretty else None,
             allow_nan=False,
         )
+    
+    # Also write to frontend/public/exports/ for automatic frontend sync
+    frontend_path = Path("frontend/public/exports") / path.name
+    if frontend_path.parent.exists():
+        with frontend_path.open("w", encoding="utf-8") as f:
+            json.dump(
+                clean_json(payload),
+                f,
+                ensure_ascii=False,
+                indent=2 if pretty else None,
+                allow_nan=False,
+            )
 
 
 # -----------------------------
