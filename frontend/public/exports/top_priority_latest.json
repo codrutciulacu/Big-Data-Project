@@ -174,9 +174,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -215,9 +215,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -256,9 +256,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -297,9 +297,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -338,9 +338,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -379,9 +379,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -420,9 +420,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -502,9 +502,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -543,9 +543,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -584,9 +584,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -666,9 +666,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -707,9 +707,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,
@@ -748,9 +748,9 @@
       "is_peak_hour": 0
     },
     "suggestion": {
-      "action": "increase_frequency",
+      "action": "decrease_frequency",
       "status": "missing_both",
-      "message": "Increase frequency (over capacity target)",
+      "message": "Decrease frequency (under-utilized, off-peak)",
       "current_headway_min": 12.0,
       "recommended_headway_min": 10.429653835181282,
       "delta_headway_min": -1.5703461648187176,

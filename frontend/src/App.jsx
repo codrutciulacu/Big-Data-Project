@@ -80,7 +80,7 @@ function App() {
               <span className="stat-label">Rute Active</span>
             </div>
             <div className="stat-badge success">
-              <span className="stat-value">{summary?.total_suggestions || 0}</span>
+              <span className="stat-value">{summary?.suggestions || 0}</span>
               <span className="stat-label">Sugestii</span>
             </div>
           </div>

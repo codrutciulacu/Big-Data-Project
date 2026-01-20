@@ -11,55 +11,19 @@
   {
     "hour_of_day": 2,
     "n_routes": 32,
-    "avg_predicted_passengers": 2574.5814103280472,
-    "avg_observed_passengers": 2505.15625,
+    "avg_predicted_passengers": 2179.811290322579,
+    "avg_observed_passengers": 2335.53125,
     "avg_active_vehicles": null,
     "avg_headway_min": null,
     "peak_routes": 0
   },
   {
-    "hour_of_day": 18,
-    "n_routes": 156,
-    "avg_predicted_passengers": 1736.858209613711,
-    "avg_observed_passengers": 1785.5128205128206,
-    "avg_active_vehicles": null,
-    "avg_headway_min": null,
-    "peak_routes": 156
-  },
-  {
-    "hour_of_day": 19,
-    "n_routes": 156,
-    "avg_predicted_passengers": 2106.2293523778253,
-    "avg_observed_passengers": 53.36538461538461,
-    "avg_active_vehicles": 6.551181102362205,
-    "avg_headway_min": 5.7693445230945235,
-    "peak_routes": 0
-  },
-  {
-    "hour_of_day": 21,
-    "n_routes": 156,
-    "avg_predicted_passengers": 65.69125486606809,
-    "avg_observed_passengers": 48.78846153846154,
-    "avg_active_vehicles": null,
-    "avg_headway_min": null,
-    "peak_routes": 0
-  },
-  {
-    "hour_of_day": 22,
-    "n_routes": 188,
-    "avg_predicted_passengers": 449.2644571437524,
-    "avg_observed_passengers": 167.60106382978722,
-    "avg_active_vehicles": null,
-    "avg_headway_min": null,
-    "peak_routes": 0
-  },
-  {
-    "hour_of_day": 23,
+    "hour_of_day": 14,
     "n_routes": 63,
-    "avg_predicted_passengers": 0.0,
-    "avg_observed_passengers": 0.0,
-    "avg_active_vehicles": 3.5,
-    "avg_headway_min": 6.511111111111111,
+    "avg_predicted_passengers": 2297.5995768319067,
+    "avg_observed_passengers": 2275.5555555555557,
+    "avg_active_vehicles": 8.871794871794872,
+    "avg_headway_min": 6.378263018657756,
     "peak_routes": 0
   }
 ]

@@ -369,7 +369,7 @@ def static_gtfs_job():
                 SELECT
                     st.stop_id,
                     %s,
-                    LEAST(50, GREATEST(5, COUNT(*) * 3))
+                    (5 + floor(random() * 46))::integer
                 FROM stop_times st
                 WHERE st.version_id = %s
                 GROUP BY st.stop_id
