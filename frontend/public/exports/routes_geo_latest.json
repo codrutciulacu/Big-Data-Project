@@ -1,0 +1,6163 @@
+[
+  {
+    "route_id": "112",
+    "route_short_name": "382",
+    "route_long_name": "Baicului - Escalei",
+    "stops": [
+      {
+        "stop_id": "12014",
+        "stop_name": "Soseaua Colentina",
+        "lat": 44.469604,
+        "lon": 26.142147
+      },
+      {
+        "stop_id": "3812",
+        "stop_name": "Cremenita (Piata Colentina)",
+        "lat": 44.464375,
+        "lon": 26.134539
+      },
+      {
+        "stop_id": "3813",
+        "stop_name": "Cremenita (Piata Colentina)",
+        "lat": 44.46481,
+        "lon": 26.135427
+      },
+      {
+        "stop_id": "3844",
+        "stop_name": "Baicului",
+        "lat": 44.447365,
+        "lon": 26.142809
+      },
+      {
+        "stop_id": "3846",
+        "stop_name": "Gara Obor",
+        "lat": 44.448265,
+        "lon": 26.140589
+      },
+      {
+        "stop_id": "3848",
+        "stop_name": "Soseaua Pantelimon",
+        "lat": 44.446728,
+        "lon": 26.13604
+      },
+      {
+        "stop_id": "3884",
+        "stop_name": "Baicului",
+        "lat": 44.4474,
+        "lon": 26.143082
+      },
+      {
+        "stop_id": "3885",
+        "stop_name": "Gara Obor",
+        "lat": 44.44862,
+        "lon": 26.14041
+      },
+      {
+        "stop_id": "3904",
+        "stop_name": "Doamna Ghica",
+        "lat": 44.46066,
+        "lon": 26.132322
+      },
+      {
+        "stop_id": "3908",
+        "stop_name": "Teiul Doamnei",
+        "lat": 44.456154,
+        "lon": 26.12933
+      },
+      {
+        "stop_id": "3909",
+        "stop_name": "Cartier Colentina",
+        "lat": 44.468525,
+        "lon": 26.142237
+      },
+      {
+        "stop_id": "3910",
+        "stop_name": "Raul Colentina",
+        "lat": 44.466206,
+        "lon": 26.13737
+      },
+      {
+        "stop_id": "3919",
+        "stop_name": "Ziduri Mosi",
+        "lat": 44.454697,
+        "lon": 26.12862
+      },
+      {
+        "stop_id": "3922",
+        "stop_name": "Str. Silvia",
+        "lat": 44.458485,
+        "lon": 26.131254
+      },
+      {
+        "stop_id": "3942",
+        "stop_name": "Doamna Ghica",
+        "lat": 44.46306,
+        "lon": 26.133812
+      },
+      {
+        "stop_id": "3943",
+        "stop_name": "Raul Colentina",
+        "lat": 44.46717,
+        "lon": 26.139854
+      },
+      {
+        "stop_id": "6620",
+        "stop_name": "Oituz",
+        "lat": 44.472782,
+        "lon": 26.148651
+      },
+      {
+        "stop_id": "6622",
+        "stop_name": "Cartier Colentina",
+        "lat": 44.469784,
+        "lon": 26.144676
+      },
+      {
+        "stop_id": "6629",
+        "stop_name": "Oituz",
+        "lat": 44.47973,
+        "lon": 26.14314
+      },
+      {
+        "stop_id": "6631",
+        "stop_name": "Mentiunii",
+        "lat": 44.481693,
+        "lon": 26.14295
+      },
+      {
+        "stop_id": "6632",
+        "stop_name": "Gherghitei",
+        "lat": 44.471725,
+        "lon": 26.141504
+      },
+      {
+        "stop_id": "6633",
+        "stop_name": "Zamfir Nicolae",
+        "lat": 44.47388,
+        "lon": 26.145103
+      },
+      {
+        "stop_id": "6637",
+        "stop_name": "Escalei",
+        "lat": 44.481655,
+        "lon": 26.147535
+      },
+      {
+        "stop_id": "6641",
+        "stop_name": "Ciuca Stefan",
+        "lat": 44.479416,
+        "lon": 26.149542
+      },
+      {
+        "stop_id": "7157",
+        "stop_name": "Piata Obor",
+        "lat": 44.45201,
+        "lon": 26.12904
+      },
+      {
+        "stop_id": "7159",
+        "stop_name": "Piata Obor",
+        "lat": 44.45055,
+        "lon": 26.130087
+      },
+      {
+        "stop_id": "7166",
+        "stop_name": "Sos.Pantelimon",
+        "lat": 44.44661,
+        "lon": 26.1343
+      },
+      {
+        "stop_id": "7169",
+        "stop_name": "Ciuca Stefan",
+        "lat": 44.476128,
+        "lon": 26.14458
+      },
+      {
+        "stop_id": "7524",
+        "stop_name": "Peris",
+        "lat": 44.475937,
+        "lon": 26.151445
+      }
+    ]
+  },
+  {
+    "route_id": "113",
+    "route_short_name": "330",
+    "route_long_name": "Parcul Teilor - Complex Baneasa",
+    "stops": [
+      {
+        "stop_id": "12097",
+        "stop_name": "Barbu Vacarescu",
+        "lat": 44.45349,
+        "lon": 26.104958
+      },
+      {
+        "stop_id": "12218",
+        "stop_name": "Parcul Teilor",
+        "lat": 44.42317,
+        "lon": 26.193956
+      },
+      {
+        "stop_id": "12219",
+        "stop_name": "Gura Siriului",
+        "lat": 44.420273,
+        "lon": 26.191278
+      },
+      {
+        "stop_id": "12220",
+        "stop_name": "Varasti",
+        "lat": 44.42145,
+        "lon": 26.18719
+      },
+      {
+        "stop_id": "12221",
+        "stop_name": "Fruntas Stan Constantin",
+        "lat": 44.42217,
+        "lon": 26.18399
+      },
+      {
+        "stop_id": "12222",
+        "stop_name": "Bd. 1 Decembrie 1918",
+        "lat": 44.4232,
+        "lon": 26.178432
+      },
+      {
+        "stop_id": "12223",
+        "stop_name": "Fruntas Stan Constantin",
+        "lat": 44.422497,
+        "lon": 26.18242
+      },
+      {
+        "stop_id": "12224",
+        "stop_name": "Varasti",
+        "lat": 44.421036,
+        "lon": 26.18841
+      },
+      {
+        "stop_id": "12225",
+        "stop_name": "Gura Siriului",
+        "lat": 44.420544,
+        "lon": 26.192648
+      },
+      {
+        "stop_id": "12226",
+        "stop_name": "Parcul Teilor",
+        "lat": 44.422962,
+        "lon": 26.193853
+      },
+      {
+        "stop_id": "12288",
+        "stop_name": "Aeroport Baneasa",
+        "lat": 44.497303,
+        "lon": 26.07957
+      },
+      {
+        "stop_id": "3704",
+        "stop_name": "Soseaua Mihai Bravu",
+        "lat": 44.424377,
+        "lon": 26.138256
+      },
+      {
+        "stop_id": "3718",
+        "stop_name": "Ion Tuculescu",
+        "lat": 44.4252,
+        "lon": 26.143707
+      },
+      {
+        "stop_id": "3880",
+        "stop_name": "Ion Tuculescu",
+        "lat": 44.42522,
+        "lon": 26.144886
+      },
+      {
+        "stop_id": "5958",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.49406,
+        "lon": 26.083408
+      },
+      {
+        "stop_id": "5973",
+        "stop_name": "Barajul Dunarii",
+        "lat": 44.424583,
+        "lon": 26.171888
+      },
+      {
+        "stop_id": "5976",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.425022,
+        "lon": 26.164522
+      },
+      {
+        "stop_id": "5978",
+        "stop_name": "Barajul Dunarii",
+        "lat": 44.42518,
+        "lon": 26.16934
+      },
+      {
+        "stop_id": "6258",
+        "stop_name": "Soseaua Stefan cel Mare",
+        "lat": 44.453712,
+        "lon": 26.10482
+      },
+      {
+        "stop_id": "6261",
+        "stop_name": "Muzeul Aviatiei",
+        "lat": 44.475853,
+        "lon": 26.107037
+      },
+      {
+        "stop_id": "6262",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.458096,
+        "lon": 26.106342
+      },
+      {
+        "stop_id": "6266",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.45622,
+        "lon": 26.105549
+      },
+      {
+        "stop_id": "6335",
+        "stop_name": "Muzeul Aviatiei",
+        "lat": 44.47451,
+        "lon": 26.107496
+      },
+      {
+        "stop_id": "6369",
+        "stop_name": "Piata Iancului",
+        "lat": 44.440132,
+        "lon": 26.134417
+      },
+      {
+        "stop_id": "6371",
+        "stop_name": "Gheorghe Petrascu",
+        "lat": 44.428394,
+        "lon": 26.138529
+      },
+      {
+        "stop_id": "6372",
+        "stop_name": "Vatra Luminoasa",
+        "lat": 44.436874,
+        "lon": 26.136482
+      },
+      {
+        "stop_id": "6373",
+        "stop_name": "Baba Novac",
+        "lat": 44.42553,
+        "lon": 26.13735
+      },
+      {
+        "stop_id": "6375",
+        "stop_name": "Gheorghe Petrascu",
+        "lat": 44.427982,
+        "lon": 26.13868
+      },
+      {
+        "stop_id": "6377",
+        "stop_name": "Maior Coravu",
+        "lat": 44.4358,
+        "lon": 26.137302
+      },
+      {
+        "stop_id": "6378",
+        "stop_name": "Giuseppe Verdi",
+        "lat": 44.469643,
+        "lon": 26.10996
+      },
+      {
+        "stop_id": "6427",
+        "stop_name": "Lizeanu",
+        "lat": 44.452343,
+        "lon": 26.118929
+      },
+      {
+        "stop_id": "6440",
+        "stop_name": "Dr. Grozovici",
+        "lat": 44.452858,
+        "lon": 26.114271
+      },
+      {
+        "stop_id": "6451",
+        "stop_name": "Ceaikovski",
+        "lat": 44.463387,
+        "lon": 26.108042
+      },
+      {
+        "stop_id": "6465",
+        "stop_name": "Vasile Lascar",
+        "lat": 44.452736,
+        "lon": 26.112406
+      },
+      {
+        "stop_id": "6467",
+        "stop_name": "Soseaua Mihai Bravu 33",
+        "lat": 44.445988,
+        "lon": 26.126987
+      },
+      {
+        "stop_id": "6471",
+        "stop_name": "Piata Iancului",
+        "lat": 44.44174,
+        "lon": 26.132792
+      },
+      {
+        "stop_id": "6624",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.493908,
+        "lon": 26.083426
+      },
+      {
+        "stop_id": "6710",
+        "stop_name": "Baba Novac",
+        "lat": 44.424232,
+        "lon": 26.13839
+      },
+      {
+        "stop_id": "6763",
+        "stop_name": "Pod Lacuri",
+        "lat": 44.424274,
+        "lon": 26.15878
+      },
+      {
+        "stop_id": "6764",
+        "stop_name": "Pod Lacuri",
+        "lat": 44.42413,
+        "lon": 26.156506
+      },
+      {
+        "stop_id": "6917",
+        "stop_name": "Barbu Vacarescu",
+        "lat": 44.464256,
+        "lon": 26.108044
+      },
+      {
+        "stop_id": "6952",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.507843,
+        "lon": 26.08634
+      },
+      {
+        "stop_id": "6961",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.508137,
+        "lon": 26.08602
+      },
+      {
+        "stop_id": "6962",
+        "stop_name": "Mihail Glinka",
+        "lat": 44.462,
+        "lon": 26.107355
+      },
+      {
+        "stop_id": "7063",
+        "stop_name": "Dr. Grozovici",
+        "lat": 44.452477,
+        "lon": 26.116228
+      },
+      {
+        "stop_id": "7065",
+        "stop_name": "Vasile Lascar",
+        "lat": 44.452984,
+        "lon": 26.11071
+      },
+      {
+        "stop_id": "7093",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.485855,
+        "lon": 26.094687
+      },
+      {
+        "stop_id": "7095",
+        "stop_name": "Maguricea",
+        "lat": 44.484776,
+        "lon": 26.096506
+      },
+      {
+        "stop_id": "7098",
+        "stop_name": "Soseaua Pipera",
+        "lat": 44.47965,
+        "lon": 26.103212
+      },
+      {
+        "stop_id": "7120",
+        "stop_name": "Soseaua Pipera",
+        "lat": 44.48107,
+        "lon": 26.101652
+      },
+      {
+        "stop_id": "7122",
+        "stop_name": "Giuseppe Verdi",
+        "lat": 44.468445,
+        "lon": 26.10936
+      },
+      {
+        "stop_id": "7127",
+        "stop_name": "Maguricea",
+        "lat": 44.483284,
+        "lon": 26.098291
+      },
+      {
+        "stop_id": "7129",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.48661,
+        "lon": 26.093813
+      },
+      {
+        "stop_id": "7234",
+        "stop_name": "Lizeanu",
+        "lat": 44.452213,
+        "lon": 26.118204
+      },
+      {
+        "stop_id": "7247",
+        "stop_name": "Soseaua Mihai Bravu 88",
+        "lat": 44.445,
+        "lon": 26.12743
+      },
+      {
+        "stop_id": "7315",
+        "stop_name": "Soseaua Campia Libertatii",
+        "lat": 44.42549,
+        "lon": 26.150084
+      },
+      {
+        "stop_id": "7355",
+        "stop_name": "Apicola",
+        "lat": 44.492695,
+        "lon": 26.08773
+      },
+      {
+        "stop_id": "7361",
+        "stop_name": "Soseaua Campia Libertatii",
+        "lat": 44.425514,
+        "lon": 26.149967
+      },
+      {
+        "stop_id": "7490",
+        "stop_name": "Rossini",
+        "lat": 44.4607,
+        "lon": 26.107162
+      },
+      {
+        "stop_id": "7492",
+        "stop_name": "Rossini",
+        "lat": 44.45988,
+        "lon": 26.106697
+      },
+      {
+        "stop_id": "7535",
+        "stop_name": "Bucur Obor",
+        "lat": 44.44833,
+        "lon": 26.125242
+      },
+      {
+        "stop_id": "7536",
+        "stop_name": "Bucur Obor",
+        "lat": 44.44857,
+        "lon": 26.125942
+      },
+      {
+        "stop_id": "7543",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.423977,
+        "lon": 26.17587
+      },
+      {
+        "stop_id": "7544",
+        "stop_name": "Hotel Phoenicia",
+        "lat": 44.49254,
+        "lon": 26.08776
+      },
+      {
+        "stop_id": "7555",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.42487,
+        "lon": 26.16212
+      },
+      {
+        "stop_id": "7561",
+        "stop_name": "Soseaua Bucuresti-Ploiesti",
+        "lat": 44.494305,
+        "lon": 26.08014
+      }
+    ]
+  },
+  {
+    "route_id": "116",
+    "route_short_name": "282",
+    "route_long_name": "Gara Basarab - Soseaua Fundeni",
+    "stops": [
+      {
+        "stop_id": "10682",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.461784,
+        "lon": 26.094912
+      },
+      {
+        "stop_id": "12205",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.461124,
+        "lon": 26.094584
+      },
+      {
+        "stop_id": "3734",
+        "stop_name": "Gara de Nord",
+        "lat": 44.44807,
+        "lon": 26.074272
+      },
+      {
+        "stop_id": "3783",
+        "stop_name": "Gara de Nord",
+        "lat": 44.448284,
+        "lon": 26.074188
+      },
+      {
+        "stop_id": "3812",
+        "stop_name": "Cremenita (Piata Colentina)",
+        "lat": 44.464375,
+        "lon": 26.134539
+      },
+      {
+        "stop_id": "3813",
+        "stop_name": "Cremenita (Piata Colentina)",
+        "lat": 44.46481,
+        "lon": 26.135427
+      },
+      {
+        "stop_id": "3860",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445652,
+        "lon": 26.074987
+      },
+      {
+        "stop_id": "3910",
+        "stop_name": "Raul Colentina",
+        "lat": 44.466206,
+        "lon": 26.13737
+      },
+      {
+        "stop_id": "3942",
+        "stop_name": "Doamna Ghica",
+        "lat": 44.46306,
+        "lon": 26.133812
+      },
+      {
+        "stop_id": "5923",
+        "stop_name": "Rascoala 1907",
+        "lat": 44.463104,
+        "lon": 26.143974
+      },
+      {
+        "stop_id": "5925",
+        "stop_name": "Piata Charles de Gaulle",
+        "lat": 44.465313,
+        "lon": 26.087532
+      },
+      {
+        "stop_id": "5926",
+        "stop_name": "Maior Bacila",
+        "lat": 44.465282,
+        "lon": 26.13921
+      },
+      {
+        "stop_id": "5927",
+        "stop_name": "Radovanu",
+        "lat": 44.462494,
+        "lon": 26.142038
+      },
+      {
+        "stop_id": "5937",
+        "stop_name": "Radovanu",
+        "lat": 44.462036,
+        "lon": 26.142447
+      },
+      {
+        "stop_id": "5938",
+        "stop_name": "Minerilor",
+        "lat": 44.46323,
+        "lon": 26.146236
+      },
+      {
+        "stop_id": "5947",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.459763,
+        "lon": 26.09356
+      },
+      {
+        "stop_id": "6034",
+        "stop_name": "Manastirea Casin",
+        "lat": 44.467854,
+        "lon": 26.075256
+      },
+      {
+        "stop_id": "6036",
+        "stop_name": "Manastirea Casin",
+        "lat": 44.467964,
+        "lon": 26.073421
+      },
+      {
+        "stop_id": "6049",
+        "stop_name": "Soseaua Nicolae Titulescu",
+        "lat": 44.45072,
+        "lon": 26.070103
+      },
+      {
+        "stop_id": "6051",
+        "stop_name": "Maior Bacila",
+        "lat": 44.46492,
+        "lon": 26.139524
+      },
+      {
+        "stop_id": "6052",
+        "stop_name": "Soseaua Fundeni",
+        "lat": 44.4651,
+        "lon": 26.148155
+      },
+      {
+        "stop_id": "6222",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.457134,
+        "lon": 26.106733
+      },
+      {
+        "stop_id": "6291",
+        "stop_name": "Bd. Ion Mihalache",
+        "lat": 44.455837,
+        "lon": 26.079552
+      },
+      {
+        "stop_id": "6347",
+        "stop_name": "Bd. Banu Manta",
+        "lat": 44.45593,
+        "lon": 26.079304
+      },
+      {
+        "stop_id": "6392",
+        "stop_name": "Universitatea Tehnica de Constructii",
+        "lat": 44.463478,
+        "lon": 26.123419
+      },
+      {
+        "stop_id": "6393",
+        "stop_name": "Universitatea Tehnica de Constructii",
+        "lat": 44.463593,
+        "lon": 26.124075
+      },
+      {
+        "stop_id": "6418",
+        "stop_name": "Sala Lucian Grigorescu",
+        "lat": 44.46438,
+        "lon": 26.095722
+      },
+      {
+        "stop_id": "6420",
+        "stop_name": "Calea Floreasca",
+        "lat": 44.46594,
+        "lon": 26.10136
+      },
+      {
+        "stop_id": "6451",
+        "stop_name": "Ceaikovski",
+        "lat": 44.463387,
+        "lon": 26.108042
+      },
+      {
+        "stop_id": "6476",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.464664,
+        "lon": 26.126406
+      },
+      {
+        "stop_id": "6503",
+        "stop_name": "Circul Bucuresti",
+        "lat": 44.458138,
+        "lon": 26.109272
+      },
+      {
+        "stop_id": "6523",
+        "stop_name": "Luigi Galvani",
+        "lat": 44.459866,
+        "lon": 26.113659
+      },
+      {
+        "stop_id": "6524",
+        "stop_name": "Maica Domnului",
+        "lat": 44.461594,
+        "lon": 26.118307
+      },
+      {
+        "stop_id": "6525",
+        "stop_name": "Circul Bucuresti",
+        "lat": 44.457752,
+        "lon": 26.108027
+      },
+      {
+        "stop_id": "6565",
+        "stop_name": "Maica Domnului",
+        "lat": 44.461685,
+        "lon": 26.118843
+      },
+      {
+        "stop_id": "6566",
+        "stop_name": "Luigi Galvani",
+        "lat": 44.459263,
+        "lon": 26.112295
+      },
+      {
+        "stop_id": "6689",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.464832,
+        "lon": 26.128414
+      },
+      {
+        "stop_id": "6733",
+        "stop_name": "Vasile Gherghel",
+        "lat": 44.463955,
+        "lon": 26.070225
+      },
+      {
+        "stop_id": "6817",
+        "stop_name": "Soseaua Nicolae Titulescu",
+        "lat": 44.44982,
+        "lon": 26.070368
+      },
+      {
+        "stop_id": "6879",
+        "stop_name": "Sala Lucian Grigorescu",
+        "lat": 44.4652,
+        "lon": 26.095877
+      },
+      {
+        "stop_id": "6883",
+        "stop_name": "Piata Ion Mihalache",
+        "lat": 44.458977,
+        "lon": 26.076572
+      },
+      {
+        "stop_id": "6885",
+        "stop_name": "Primaria Sector 1",
+        "lat": 44.453598,
+        "lon": 26.074385
+      },
+      {
+        "stop_id": "6917",
+        "stop_name": "Barbu Vacarescu",
+        "lat": 44.464256,
+        "lon": 26.108044
+      },
+      {
+        "stop_id": "6936",
+        "stop_name": "Poiana Cu Aluni",
+        "lat": 44.463318,
+        "lon": 26.141148
+      },
+      {
+        "stop_id": "6962",
+        "stop_name": "Mihail Glinka",
+        "lat": 44.462,
+        "lon": 26.107355
+      },
+      {
+        "stop_id": "7030",
+        "stop_name": "Piata Charles de Gaulle",
+        "lat": 44.465393,
+        "lon": 26.087847
+      },
+      {
+        "stop_id": "7055",
+        "stop_name": "Piata Domenii",
+        "lat": 44.46539,
+        "lon": 26.067518
+      },
+      {
+        "stop_id": "7056",
+        "stop_name": "Bd. Maresal Averescu",
+        "lat": 44.46267,
+        "lon": 26.072128
+      },
+      {
+        "stop_id": "7057",
+        "stop_name": "Piata Ion Mihalache",
+        "lat": 44.458847,
+        "lon": 26.077007
+      },
+      {
+        "stop_id": "7058",
+        "stop_name": "Primaria Sector 1",
+        "lat": 44.45312,
+        "lon": 26.073921
+      },
+      {
+        "stop_id": "7069",
+        "stop_name": "Gara de Nord",
+        "lat": 44.447166,
+        "lon": 26.075363
+      },
+      {
+        "stop_id": "7080",
+        "stop_name": "Bd. Maresal Averescu",
+        "lat": 44.461468,
+        "lon": 26.073378
+      },
+      {
+        "stop_id": "7259",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.467617,
+        "lon": 26.0767
+      },
+      {
+        "stop_id": "7290",
+        "stop_name": "Garibaldi",
+        "lat": 44.465446,
+        "lon": 26.10582
+      },
+      {
+        "stop_id": "7321",
+        "stop_name": "Calea Floreasca",
+        "lat": 44.465855,
+        "lon": 26.10298
+      },
+      {
+        "stop_id": "7340",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.46695,
+        "lon": 26.07948
+      },
+      {
+        "stop_id": "7382",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445496,
+        "lon": 26.07429
+      },
+      {
+        "stop_id": "7438",
+        "stop_name": "Piata Domenii",
+        "lat": 44.465393,
+        "lon": 26.067122
+      },
+      {
+        "stop_id": "7440",
+        "stop_name": "Gara Basarab",
+        "lat": 44.448864,
+        "lon": 26.069199
+      },
+      {
+        "stop_id": "7457",
+        "stop_name": "Gara Basarab",
+        "lat": 44.449257,
+        "lon": 26.068924
+      },
+      {
+        "stop_id": "7474",
+        "stop_name": "Soseaua Colentina",
+        "lat": 44.46269,
+        "lon": 26.13174
+      },
+      {
+        "stop_id": "7490",
+        "stop_name": "Rossini",
+        "lat": 44.4607,
+        "lon": 26.107162
+      },
+      {
+        "stop_id": "7492",
+        "stop_name": "Rossini",
+        "lat": 44.45988,
+        "lon": 26.106697
+      },
+      {
+        "stop_id": "7649",
+        "stop_name": "Soseaua Colentina",
+        "lat": 44.462917,
+        "lon": 26.131802
+      },
+      {
+        "stop_id": "9234",
+        "stop_name": "Soseaua Fundeni",
+        "lat": 44.464355,
+        "lon": 26.148241
+      }
+    ]
+  },
+  {
+    "route_id": "117",
+    "route_short_name": "335",
+    "route_long_name": "Faur - Complex Baneasa",
+    "stops": [
+      {
+        "stop_id": "12250",
+        "stop_name": "Muzeul Satului",
+        "lat": 44.471767,
+        "lon": 26.075811
+      },
+      {
+        "stop_id": "12288",
+        "stop_name": "Aeroport Baneasa",
+        "lat": 44.497303,
+        "lon": 26.07957
+      },
+      {
+        "stop_id": "5925",
+        "stop_name": "Piata Charles de Gaulle",
+        "lat": 44.465313,
+        "lon": 26.087532
+      },
+      {
+        "stop_id": "5931",
+        "stop_name": "Perla",
+        "lat": 44.45367,
+        "lon": 26.098433
+      },
+      {
+        "stop_id": "5943",
+        "stop_name": "Stanescu Gheorghe",
+        "lat": 44.44237,
+        "lon": 26.144173
+      },
+      {
+        "stop_id": "5949",
+        "stop_name": "Soseaua Stefan cel Mare",
+        "lat": 44.453907,
+        "lon": 26.09814
+      },
+      {
+        "stop_id": "5973",
+        "stop_name": "Barajul Dunarii",
+        "lat": 44.424583,
+        "lon": 26.171888
+      },
+      {
+        "stop_id": "5974",
+        "stop_name": "Parcul Titan",
+        "lat": 44.42859,
+        "lon": 26.162222
+      },
+      {
+        "stop_id": "5976",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.425022,
+        "lon": 26.164522
+      },
+      {
+        "stop_id": "5978",
+        "stop_name": "Barajul Dunarii",
+        "lat": 44.42518,
+        "lon": 26.16934
+      },
+      {
+        "stop_id": "5980",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.42571,
+        "lon": 26.163301
+      },
+      {
+        "stop_id": "5994",
+        "stop_name": "Piata Presei",
+        "lat": 44.47802,
+        "lon": 26.07331
+      },
+      {
+        "stop_id": "6274",
+        "stop_name": "Pictor Harlescu",
+        "lat": 44.43797,
+        "lon": 26.158548
+      },
+      {
+        "stop_id": "6344",
+        "stop_name": "Colegiul National I.L. Caragiale",
+        "lat": 44.457172,
+        "lon": 26.09622
+      },
+      {
+        "stop_id": "6345",
+        "stop_name": "Colegiul National I.L. Caragiale",
+        "lat": 44.458256,
+        "lon": 26.095692
+      },
+      {
+        "stop_id": "6427",
+        "stop_name": "Lizeanu",
+        "lat": 44.452343,
+        "lon": 26.118929
+      },
+      {
+        "stop_id": "6440",
+        "stop_name": "Dr. Grozovici",
+        "lat": 44.452858,
+        "lon": 26.114271
+      },
+      {
+        "stop_id": "6465",
+        "stop_name": "Vasile Lascar",
+        "lat": 44.452736,
+        "lon": 26.112406
+      },
+      {
+        "stop_id": "6467",
+        "stop_name": "Soseaua Mihai Bravu 33",
+        "lat": 44.445988,
+        "lon": 26.126987
+      },
+      {
+        "stop_id": "6471",
+        "stop_name": "Piata Iancului",
+        "lat": 44.44174,
+        "lon": 26.132792
+      },
+      {
+        "stop_id": "6483",
+        "stop_name": "Stanescu Gheorghe",
+        "lat": 44.442425,
+        "lon": 26.143148
+      },
+      {
+        "stop_id": "6484",
+        "stop_name": "Sarafinesti",
+        "lat": 44.442867,
+        "lon": 26.147255
+      },
+      {
+        "stop_id": "6531",
+        "stop_name": "Piata Iancului",
+        "lat": 44.441387,
+        "lon": 26.135632
+      },
+      {
+        "stop_id": "6609",
+        "stop_name": "Gara Baneasa",
+        "lat": 44.484066,
+        "lon": 26.076508
+      },
+      {
+        "stop_id": "6628",
+        "stop_name": "Muzeul Satului",
+        "lat": 44.47275,
+        "lon": 26.07557
+      },
+      {
+        "stop_id": "6695",
+        "stop_name": "Piata Presei",
+        "lat": 44.47698,
+        "lon": 26.073025
+      },
+      {
+        "stop_id": "6919",
+        "stop_name": "Faur",
+        "lat": 44.426426,
+        "lon": 26.179852
+      },
+      {
+        "stop_id": "6952",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.507843,
+        "lon": 26.08634
+      },
+      {
+        "stop_id": "6961",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.508137,
+        "lon": 26.08602
+      },
+      {
+        "stop_id": "7022",
+        "stop_name": "Aeroport Baneasa",
+        "lat": 44.496006,
+        "lon": 26.078865
+      },
+      {
+        "stop_id": "7028",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.467644,
+        "lon": 26.078308
+      },
+      {
+        "stop_id": "7030",
+        "stop_name": "Piata Charles de Gaulle",
+        "lat": 44.465393,
+        "lon": 26.087847
+      },
+      {
+        "stop_id": "7063",
+        "stop_name": "Dr. Grozovici",
+        "lat": 44.452477,
+        "lon": 26.116228
+      },
+      {
+        "stop_id": "7065",
+        "stop_name": "Vasile Lascar",
+        "lat": 44.452984,
+        "lon": 26.11071
+      },
+      {
+        "stop_id": "7086",
+        "stop_name": "Stadionul Dinamo",
+        "lat": 44.45285,
+        "lon": 26.10413
+      },
+      {
+        "stop_id": "7092",
+        "stop_name": "Stadionul Dinamo",
+        "lat": 44.453102,
+        "lon": 26.104
+      },
+      {
+        "stop_id": "7233",
+        "stop_name": "Pod Baneasa",
+        "lat": 44.493656,
+        "lon": 26.079412
+      },
+      {
+        "stop_id": "7234",
+        "stop_name": "Lizeanu",
+        "lat": 44.452213,
+        "lon": 26.118204
+      },
+      {
+        "stop_id": "7247",
+        "stop_name": "Soseaua Mihai Bravu 88",
+        "lat": 44.445,
+        "lon": 26.12743
+      },
+      {
+        "stop_id": "7340",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.46695,
+        "lon": 26.07948
+      },
+      {
+        "stop_id": "7343",
+        "stop_name": "Pod Baneasa",
+        "lat": 44.49066,
+        "lon": 26.078947
+      },
+      {
+        "stop_id": "7345",
+        "stop_name": "Gara Baneasa",
+        "lat": 44.484005,
+        "lon": 26.075752
+      },
+      {
+        "stop_id": "7535",
+        "stop_name": "Bucur Obor",
+        "lat": 44.44833,
+        "lon": 26.125242
+      },
+      {
+        "stop_id": "7536",
+        "stop_name": "Bucur Obor",
+        "lat": 44.44857,
+        "lon": 26.125942
+      },
+      {
+        "stop_id": "7543",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.423977,
+        "lon": 26.17587
+      },
+      {
+        "stop_id": "7556",
+        "stop_name": "Constantin Brancusi",
+        "lat": 44.42972,
+        "lon": 26.162106
+      },
+      {
+        "stop_id": "7560",
+        "stop_name": "Bd. Basarabia",
+        "lat": 44.435856,
+        "lon": 26.159775
+      },
+      {
+        "stop_id": "7563",
+        "stop_name": "Pictor Harlescu",
+        "lat": 44.439335,
+        "lon": 26.158165
+      },
+      {
+        "stop_id": "7568",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.423748,
+        "lon": 26.177366
+      },
+      {
+        "stop_id": "7590",
+        "stop_name": "Faur",
+        "lat": 44.42624,
+        "lon": 26.17895
+      },
+      {
+        "stop_id": "7608",
+        "stop_name": "Bd. Chisinau",
+        "lat": 44.442028,
+        "lon": 26.15722
+      },
+      {
+        "stop_id": "7617",
+        "stop_name": "Soseaua Iancului",
+        "lat": 44.443203,
+        "lon": 26.1526
+      },
+      {
+        "stop_id": "7620",
+        "stop_name": "Bd. Chisinau",
+        "lat": 44.44313,
+        "lon": 26.156115
+      },
+      {
+        "stop_id": "7622",
+        "stop_name": "Bd. Nicolae Grigorescu",
+        "lat": 44.43429,
+        "lon": 26.160152
+      },
+      {
+        "stop_id": "9407",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.461033,
+        "lon": 26.09386
+      },
+      {
+        "stop_id": "9888",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.45975,
+        "lon": 26.094479
+      }
+    ]
+  },
+  {
+    "route_id": "119",
+    "route_short_name": "605",
+    "route_long_name": "Aeroport Baneasa - Piata Sfanta Vineri",
+    "stops": [
+      {
+        "stop_id": "11072",
+        "stop_name": "Piata Sfanta Vineri",
+        "lat": 44.42985,
+        "lon": 26.107347
+      },
+      {
+        "stop_id": "12097",
+        "stop_name": "Barbu Vacarescu",
+        "lat": 44.45349,
+        "lon": 26.104958
+      },
+      {
+        "stop_id": "12217",
+        "stop_name": "Aeroport Baneasa",
+        "lat": 44.495155,
+        "lon": 26.080809
+      },
+      {
+        "stop_id": "3122",
+        "stop_name": "Batistei",
+        "lat": 44.440475,
+        "lon": 26.108646
+      },
+      {
+        "stop_id": "3124",
+        "stop_name": "Bd. Carol I",
+        "lat": 44.437172,
+        "lon": 26.110039
+      },
+      {
+        "stop_id": "3193",
+        "stop_name": "Piata Gemeni",
+        "lat": 44.44462,
+        "lon": 26.111134
+      },
+      {
+        "stop_id": "3437",
+        "stop_name": "Piata Sf. Gheorghe",
+        "lat": 44.43168,
+        "lon": 26.105492
+      },
+      {
+        "stop_id": "3601",
+        "stop_name": "Piata Gemeni",
+        "lat": 44.444954,
+        "lon": 26.11124
+      },
+      {
+        "stop_id": "3630",
+        "stop_name": "Maria Rosetti",
+        "lat": 44.44247,
+        "lon": 26.109823
+      },
+      {
+        "stop_id": "3631",
+        "stop_name": "Maria Rosetti",
+        "lat": 44.44211,
+        "lon": 26.109661
+      },
+      {
+        "stop_id": "5958",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.49406,
+        "lon": 26.083408
+      },
+      {
+        "stop_id": "6126",
+        "stop_name": "Matei Basarab",
+        "lat": 44.43107,
+        "lon": 26.111551
+      },
+      {
+        "stop_id": "6162",
+        "stop_name": "Hristo Botev",
+        "lat": 44.43443,
+        "lon": 26.107796
+      },
+      {
+        "stop_id": "6258",
+        "stop_name": "Soseaua Stefan cel Mare",
+        "lat": 44.453712,
+        "lon": 26.10482
+      },
+      {
+        "stop_id": "6261",
+        "stop_name": "Muzeul Aviatiei",
+        "lat": 44.475853,
+        "lon": 26.107037
+      },
+      {
+        "stop_id": "6262",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.458096,
+        "lon": 26.106342
+      },
+      {
+        "stop_id": "6263",
+        "stop_name": "Batistei",
+        "lat": 44.43988,
+        "lon": 26.108767
+      },
+      {
+        "stop_id": "6264",
+        "stop_name": "Bd. Carol I",
+        "lat": 44.436756,
+        "lon": 26.110474
+      },
+      {
+        "stop_id": "6266",
+        "stop_name": "Bd. Lacul Tei",
+        "lat": 44.45622,
+        "lon": 26.105549
+      },
+      {
+        "stop_id": "6334",
+        "stop_name": "Piata Sf. Gheorghe",
+        "lat": 44.431778,
+        "lon": 26.105417
+      },
+      {
+        "stop_id": "6335",
+        "stop_name": "Muzeul Aviatiei",
+        "lat": 44.47451,
+        "lon": 26.107496
+      },
+      {
+        "stop_id": "6336",
+        "stop_name": "Sfanta Vineri",
+        "lat": 44.430447,
+        "lon": 26.106651
+      },
+      {
+        "stop_id": "6378",
+        "stop_name": "Giuseppe Verdi",
+        "lat": 44.469643,
+        "lon": 26.10996
+      },
+      {
+        "stop_id": "6385",
+        "stop_name": "Hristo Botev",
+        "lat": 44.43388,
+        "lon": 26.107515
+      },
+      {
+        "stop_id": "6387",
+        "stop_name": "Teatrul Metropolis",
+        "lat": 44.447243,
+        "lon": 26.108124
+      },
+      {
+        "stop_id": "6451",
+        "stop_name": "Ceaikovski",
+        "lat": 44.463387,
+        "lon": 26.108042
+      },
+      {
+        "stop_id": "6624",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.493908,
+        "lon": 26.083426
+      },
+      {
+        "stop_id": "6693",
+        "stop_name": "Teatrul Metropolis",
+        "lat": 44.44839,
+        "lon": 26.107393
+      },
+      {
+        "stop_id": "6917",
+        "stop_name": "Barbu Vacarescu",
+        "lat": 44.464256,
+        "lon": 26.108044
+      },
+      {
+        "stop_id": "6962",
+        "stop_name": "Mihail Glinka",
+        "lat": 44.462,
+        "lon": 26.107355
+      },
+      {
+        "stop_id": "7093",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.485855,
+        "lon": 26.094687
+      },
+      {
+        "stop_id": "7095",
+        "stop_name": "Maguricea",
+        "lat": 44.484776,
+        "lon": 26.096506
+      },
+      {
+        "stop_id": "7098",
+        "stop_name": "Soseaua Pipera",
+        "lat": 44.47965,
+        "lon": 26.103212
+      },
+      {
+        "stop_id": "7120",
+        "stop_name": "Soseaua Pipera",
+        "lat": 44.48107,
+        "lon": 26.101652
+      },
+      {
+        "stop_id": "7122",
+        "stop_name": "Giuseppe Verdi",
+        "lat": 44.468445,
+        "lon": 26.10936
+      },
+      {
+        "stop_id": "7127",
+        "stop_name": "Maguricea",
+        "lat": 44.483284,
+        "lon": 26.098291
+      },
+      {
+        "stop_id": "7129",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.48661,
+        "lon": 26.093813
+      },
+      {
+        "stop_id": "7355",
+        "stop_name": "Apicola",
+        "lat": 44.492695,
+        "lon": 26.08773
+      },
+      {
+        "stop_id": "7490",
+        "stop_name": "Rossini",
+        "lat": 44.4607,
+        "lon": 26.107162
+      },
+      {
+        "stop_id": "7492",
+        "stop_name": "Rossini",
+        "lat": 44.45988,
+        "lon": 26.106697
+      },
+      {
+        "stop_id": "7544",
+        "stop_name": "Hotel Phoenicia",
+        "lat": 44.49254,
+        "lon": 26.08776
+      }
+    ]
+  },
+  {
+    "route_id": "121",
+    "route_short_name": "205",
+    "route_long_name": "M Straulesti - Piata Unirii 2",
+    "stops": [
+      {
+        "stop_id": "12015",
+        "stop_name": "Complex Sisesti",
+        "lat": 44.50022,
+        "lon": 26.064302
+      },
+      {
+        "stop_id": "12016",
+        "stop_name": "Complex Sisesti",
+        "lat": 44.500744,
+        "lon": 26.063457
+      },
+      {
+        "stop_id": "12197",
+        "stop_name": "Colegiul National Gheorghe Lazar",
+        "lat": 44.434982,
+        "lon": 26.089546
+      },
+      {
+        "stop_id": "12198",
+        "stop_name": "Cismigiu",
+        "lat": 44.438335,
+        "lon": 26.087626
+      },
+      {
+        "stop_id": "12199",
+        "stop_name": "Stirbei Voda",
+        "lat": 44.44027,
+        "lon": 26.086483
+      },
+      {
+        "stop_id": "12200",
+        "stop_name": "Popa Tatu",
+        "lat": 44.443565,
+        "lon": 26.083738
+      },
+      {
+        "stop_id": "12201",
+        "stop_name": "Berzei",
+        "lat": 44.444756,
+        "lon": 26.082104
+      },
+      {
+        "stop_id": "12202",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.45138,
+        "lon": 26.084555
+      },
+      {
+        "stop_id": "12243",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.453865,
+        "lon": 26.08617
+      },
+      {
+        "stop_id": "12244",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.466206,
+        "lon": 26.07856
+      },
+      {
+        "stop_id": "12245",
+        "stop_name": "Arhitect Ion Mincu",
+        "lat": 44.458466,
+        "lon": 26.082445
+      },
+      {
+        "stop_id": "12246",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.45483,
+        "lon": 26.084366
+      },
+      {
+        "stop_id": "12247",
+        "stop_name": "Arhitect Ion Mincu",
+        "lat": 44.46041,
+        "lon": 26.08623
+      },
+      {
+        "stop_id": "12250",
+        "stop_name": "Muzeul Satului",
+        "lat": 44.471767,
+        "lon": 26.075811
+      },
+      {
+        "stop_id": "12251",
+        "stop_name": "Piata Charles de Gaulle",
+        "lat": 44.465218,
+        "lon": 26.086523
+      },
+      {
+        "stop_id": "5958",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.49406,
+        "lon": 26.083408
+      },
+      {
+        "stop_id": "5968",
+        "stop_name": "Elie Radu",
+        "lat": 44.433426,
+        "lon": 26.091553
+      },
+      {
+        "stop_id": "5994",
+        "stop_name": "Piata Presei",
+        "lat": 44.47802,
+        "lon": 26.07331
+      },
+      {
+        "stop_id": "6024",
+        "stop_name": "Docentilor",
+        "lat": 44.46241,
+        "lon": 26.08045
+      },
+      {
+        "stop_id": "6391",
+        "stop_name": "Universitatea Bioterra",
+        "lat": 44.499847,
+        "lon": 26.06735
+      },
+      {
+        "stop_id": "6404",
+        "stop_name": "Universitatea Bioterra",
+        "lat": 44.499767,
+        "lon": 26.067434
+      },
+      {
+        "stop_id": "6552",
+        "stop_name": "Piata Natiunile Unite",
+        "lat": 44.42999,
+        "lon": 26.096945
+      },
+      {
+        "stop_id": "6554",
+        "stop_name": "Piata Unirii",
+        "lat": 44.429127,
+        "lon": 26.102396
+      },
+      {
+        "stop_id": "6557",
+        "stop_name": "Bd. Ficusului",
+        "lat": 44.488846,
+        "lon": 26.083748
+      },
+      {
+        "stop_id": "6609",
+        "stop_name": "Gara Baneasa",
+        "lat": 44.484066,
+        "lon": 26.076508
+      },
+      {
+        "stop_id": "6628",
+        "stop_name": "Muzeul Satului",
+        "lat": 44.47275,
+        "lon": 26.07557
+      },
+      {
+        "stop_id": "6645",
+        "stop_name": "Horia Macelariu",
+        "lat": 44.490704,
+        "lon": 26.085028
+      },
+      {
+        "stop_id": "6695",
+        "stop_name": "Piata Presei",
+        "lat": 44.47698,
+        "lon": 26.073025
+      },
+      {
+        "stop_id": "6759",
+        "stop_name": "Lacul Grivita",
+        "lat": 44.50528,
+        "lon": 26.036047
+      },
+      {
+        "stop_id": "6760",
+        "stop_name": "Lacul Grivita",
+        "lat": 44.50545,
+        "lon": 26.03539
+      },
+      {
+        "stop_id": "6835",
+        "stop_name": "Brodina",
+        "lat": 44.497543,
+        "lon": 26.073689
+      },
+      {
+        "stop_id": "6836",
+        "stop_name": "Aeroportul Baneasa",
+        "lat": 44.4953,
+        "lon": 26.077682
+      },
+      {
+        "stop_id": "6844",
+        "stop_name": "Romaero",
+        "lat": 44.493076,
+        "lon": 26.08564
+      },
+      {
+        "stop_id": "6845",
+        "stop_name": "Aeroportul Baneasa",
+        "lat": 44.49551,
+        "lon": 26.077524
+      },
+      {
+        "stop_id": "6874",
+        "stop_name": "Gheorghe Manu",
+        "lat": 44.448082,
+        "lon": 26.089252
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "7028",
+        "stop_name": "Arcul de Triumf",
+        "lat": 44.467644,
+        "lon": 26.078308
+      },
+      {
+        "stop_id": "7087",
+        "stop_name": "Piscul Scoartei",
+        "lat": 44.50459,
+        "lon": 26.04029
+      },
+      {
+        "stop_id": "7088",
+        "stop_name": "Sos.Bucuresti Targoviste",
+        "lat": 44.50634,
+        "lon": 26.026537
+      },
+      {
+        "stop_id": "7091",
+        "stop_name": "Drumul Regimentului",
+        "lat": 44.5033,
+        "lon": 26.050264
+      },
+      {
+        "stop_id": "7103",
+        "stop_name": "Drumul Regimentului",
+        "lat": 44.50333,
+        "lon": 26.049368
+      },
+      {
+        "stop_id": "7104",
+        "stop_name": "Darmanesti",
+        "lat": 44.50253,
+        "lon": 26.055817
+      },
+      {
+        "stop_id": "7105",
+        "stop_name": "Sos.Bucuresti Targoviste",
+        "lat": 44.50616,
+        "lon": 26.027464
+      },
+      {
+        "stop_id": "7106",
+        "stop_name": "Piscul Scoartei",
+        "lat": 44.504444,
+        "lon": 26.040644
+      },
+      {
+        "stop_id": "7131",
+        "stop_name": "Piscul Radului",
+        "lat": 44.504208,
+        "lon": 26.043188
+      },
+      {
+        "stop_id": "7135",
+        "stop_name": "Piscul Radului",
+        "lat": 44.503838,
+        "lon": 26.045153
+      },
+      {
+        "stop_id": "7175",
+        "stop_name": "Darmanesti",
+        "lat": 44.50273,
+        "lon": 26.05496
+      },
+      {
+        "stop_id": "7304",
+        "stop_name": "Brodina",
+        "lat": 44.498154,
+        "lon": 26.07287
+      },
+      {
+        "stop_id": "7313",
+        "stop_name": "Bd. Apicultorilor",
+        "lat": 44.502193,
+        "lon": 26.05921
+      },
+      {
+        "stop_id": "7316",
+        "stop_name": "Bd. Apicultorilor",
+        "lat": 44.501987,
+        "lon": 26.059935
+      },
+      {
+        "stop_id": "7343",
+        "stop_name": "Pod Baneasa",
+        "lat": 44.49066,
+        "lon": 26.078947
+      },
+      {
+        "stop_id": "7345",
+        "stop_name": "Gara Baneasa",
+        "lat": 44.484005,
+        "lon": 26.075752
+      },
+      {
+        "stop_id": "7346",
+        "stop_name": "Pod Baneasa",
+        "lat": 44.489975,
+        "lon": 26.080523
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7573",
+        "stop_name": "Piata Revolutiei",
+        "lat": 44.438114,
+        "lon": 26.097227
+      },
+      {
+        "stop_id": "7575",
+        "stop_name": "CEC",
+        "lat": 44.43125,
+        "lon": 26.096844
+      },
+      {
+        "stop_id": "7772",
+        "stop_name": "M Straulesti",
+        "lat": 44.503223,
+        "lon": 26.024746
+      },
+      {
+        "stop_id": "7773",
+        "stop_name": "M Straulesti",
+        "lat": 44.50359,
+        "lon": 26.02371
+      },
+      {
+        "stop_id": "8831",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.451344,
+        "lon": 26.086636
+      },
+      {
+        "stop_id": "9882",
+        "stop_name": "Calea Grivitei",
+        "lat": 44.44401,
+        "lon": 26.09225
+      }
+    ]
+  },
+  {
+    "route_id": "124",
+    "route_short_name": "162",
+    "route_long_name": "Giulesti Sarbi - Gara de Nord",
+    "stops": [
+      {
+        "stop_id": "12296",
+        "stop_name": "Rasadnitei",
+        "lat": 44.47389,
+        "lon": 26.004936
+      },
+      {
+        "stop_id": "5984",
+        "stop_name": "Giulesti Sarbi",
+        "lat": 44.47118,
+        "lon": 26.001015
+      },
+      {
+        "stop_id": "5992",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470356,
+        "lon": 26.021477
+      },
+      {
+        "stop_id": "6002",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470055,
+        "lon": 26.02247
+      },
+      {
+        "stop_id": "6147",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.463497,
+        "lon": 26.041449
+      },
+      {
+        "stop_id": "6148",
+        "stop_name": "Mehadiei",
+        "lat": 44.45654,
+        "lon": 26.042725
+      },
+      {
+        "stop_id": "6171",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.46215,
+        "lon": 26.0408
+      },
+      {
+        "stop_id": "6173",
+        "stop_name": "Mehadiei",
+        "lat": 44.455833,
+        "lon": 26.043224
+      },
+      {
+        "stop_id": "6175",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.46859,
+        "lon": 26.027983
+      },
+      {
+        "stop_id": "6177",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466366,
+        "lon": 26.035086
+      },
+      {
+        "stop_id": "6180",
+        "stop_name": "Primaria Sector 6",
+        "lat": 44.445824,
+        "lon": 26.067188
+      },
+      {
+        "stop_id": "6202",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466484,
+        "lon": 26.035048
+      },
+      {
+        "stop_id": "6204",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.468967,
+        "lon": 26.027025
+      },
+      {
+        "stop_id": "6254",
+        "stop_name": "Calea Plevnei",
+        "lat": 44.44823,
+        "lon": 26.06554
+      },
+      {
+        "stop_id": "6319",
+        "stop_name": "Calea Giulesti",
+        "lat": 44.447235,
+        "lon": 26.06202
+      },
+      {
+        "stop_id": "6339",
+        "stop_name": "Godeni",
+        "lat": 44.465153,
+        "lon": 26.03834
+      },
+      {
+        "stop_id": "6342",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467697,
+        "lon": 26.031088
+      },
+      {
+        "stop_id": "6343",
+        "stop_name": "Godeni",
+        "lat": 44.464638,
+        "lon": 26.03902
+      },
+      {
+        "stop_id": "6352",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467354,
+        "lon": 26.031902
+      },
+      {
+        "stop_id": "6356",
+        "stop_name": "Podul Ilfovat",
+        "lat": 44.473087,
+        "lon": 26.017178
+      },
+      {
+        "stop_id": "6357",
+        "stop_name": "Podul Ilfovat",
+        "lat": 44.47265,
+        "lon": 26.01775
+      },
+      {
+        "stop_id": "6374",
+        "stop_name": "Rasadnitei",
+        "lat": 44.474445,
+        "lon": 26.005419
+      },
+      {
+        "stop_id": "6612",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45745,
+        "lon": 26.041624
+      },
+      {
+        "stop_id": "6614",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45812,
+        "lon": 26.04122
+      },
+      {
+        "stop_id": "6920",
+        "stop_name": "Witing",
+        "lat": 44.442913,
+        "lon": 26.071148
+      },
+      {
+        "stop_id": "6932",
+        "stop_name": "Pascal Cristian",
+        "lat": 44.446327,
+        "lon": 26.056845
+      },
+      {
+        "stop_id": "6934",
+        "stop_name": "Tibles",
+        "lat": 44.449986,
+        "lon": 26.05511
+      },
+      {
+        "stop_id": "7044",
+        "stop_name": "Muzeul Culturii Romilor",
+        "lat": 44.47455,
+        "lon": 26.013062
+      },
+      {
+        "stop_id": "7053",
+        "stop_name": "Muzeul Culturii Romilor",
+        "lat": 44.474262,
+        "lon": 26.013842
+      },
+      {
+        "stop_id": "7373",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.453075,
+        "lon": 26.04824
+      },
+      {
+        "stop_id": "7378",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.452267,
+        "lon": 26.047441
+      },
+      {
+        "stop_id": "7379",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.451977,
+        "lon": 26.05839
+      },
+      {
+        "stop_id": "7380",
+        "stop_name": "Spitalul Dr. Panait Sarbu",
+        "lat": 44.449486,
+        "lon": 26.061745
+      },
+      {
+        "stop_id": "7382",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445496,
+        "lon": 26.07429
+      },
+      {
+        "stop_id": "7440",
+        "stop_name": "Gara Basarab",
+        "lat": 44.448864,
+        "lon": 26.069199
+      },
+      {
+        "stop_id": "7466",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.452744,
+        "lon": 26.046505
+      },
+      {
+        "stop_id": "7470",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.453407,
+        "lon": 26.045635
+      },
+      {
+        "stop_id": "7507",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453636,
+        "lon": 26.052967
+      },
+      {
+        "stop_id": "7516",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453686,
+        "lon": 26.051289
+      },
+      {
+        "stop_id": "7545",
+        "stop_name": "Sculptorilor",
+        "lat": 44.47701,
+        "lon": 26.006163
+      },
+      {
+        "stop_id": "7548",
+        "stop_name": "Sculptorilor",
+        "lat": 44.476772,
+        "lon": 26.006388
+      },
+      {
+        "stop_id": "7701",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.46938,
+        "lon": 26.025368
+      },
+      {
+        "stop_id": "7702",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.469456,
+        "lon": 26.025455
+      },
+      {
+        "stop_id": "9024",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.4593,
+        "lon": 26.040276
+      },
+      {
+        "stop_id": "9025",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.459534,
+        "lon": 26.040438
+      }
+    ]
+  },
+  {
+    "route_id": "126",
+    "route_short_name": "163",
+    "route_long_name": "Giulesti Sarbi - Piata Operei",
+    "stops": [
+      {
+        "stop_id": "12058",
+        "stop_name": "Stirbei Voda",
+        "lat": 44.437336,
+        "lon": 26.076838
+      },
+      {
+        "stop_id": "3666",
+        "stop_name": "Mircea Vulcanescu",
+        "lat": 44.440018,
+        "lon": 26.073423
+      },
+      {
+        "stop_id": "3823",
+        "stop_name": "Mircea Vulcanescu",
+        "lat": 44.43994,
+        "lon": 26.073214
+      },
+      {
+        "stop_id": "3863",
+        "stop_name": "Witing",
+        "lat": 44.44193,
+        "lon": 26.071684
+      },
+      {
+        "stop_id": "5982",
+        "stop_name": "Sculptorilor",
+        "lat": 44.47065,
+        "lon": 26.007917
+      },
+      {
+        "stop_id": "5983",
+        "stop_name": "Scoala",
+        "lat": 44.47016,
+        "lon": 26.002304
+      },
+      {
+        "stop_id": "5984",
+        "stop_name": "Giulesti Sarbi",
+        "lat": 44.47118,
+        "lon": 26.001015
+      },
+      {
+        "stop_id": "5985",
+        "stop_name": "Sculptorilor",
+        "lat": 44.470715,
+        "lon": 26.007196
+      },
+      {
+        "stop_id": "5991",
+        "stop_name": "Intrarea Caramidariei",
+        "lat": 44.467365,
+        "lon": 26.010271
+      },
+      {
+        "stop_id": "5992",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470356,
+        "lon": 26.021477
+      },
+      {
+        "stop_id": "6002",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470055,
+        "lon": 26.02247
+      },
+      {
+        "stop_id": "6003",
+        "stop_name": "Poiana Lacului",
+        "lat": 44.467278,
+        "lon": 26.015718
+      },
+      {
+        "stop_id": "6061",
+        "stop_name": "Pod Eroilor",
+        "lat": 44.435036,
+        "lon": 26.07379
+      },
+      {
+        "stop_id": "6147",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.463497,
+        "lon": 26.041449
+      },
+      {
+        "stop_id": "6148",
+        "stop_name": "Mehadiei",
+        "lat": 44.45654,
+        "lon": 26.042725
+      },
+      {
+        "stop_id": "6171",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.46215,
+        "lon": 26.0408
+      },
+      {
+        "stop_id": "6173",
+        "stop_name": "Mehadiei",
+        "lat": 44.455833,
+        "lon": 26.043224
+      },
+      {
+        "stop_id": "6175",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.46859,
+        "lon": 26.027983
+      },
+      {
+        "stop_id": "6177",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466366,
+        "lon": 26.035086
+      },
+      {
+        "stop_id": "6179",
+        "stop_name": "Primaria Sector 6",
+        "lat": 44.44529,
+        "lon": 26.067677
+      },
+      {
+        "stop_id": "6180",
+        "stop_name": "Primaria Sector 6",
+        "lat": 44.445824,
+        "lon": 26.067188
+      },
+      {
+        "stop_id": "6202",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466484,
+        "lon": 26.035048
+      },
+      {
+        "stop_id": "6204",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.468967,
+        "lon": 26.027025
+      },
+      {
+        "stop_id": "6319",
+        "stop_name": "Calea Giulesti",
+        "lat": 44.447235,
+        "lon": 26.06202
+      },
+      {
+        "stop_id": "6339",
+        "stop_name": "Godeni",
+        "lat": 44.465153,
+        "lon": 26.03834
+      },
+      {
+        "stop_id": "6342",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467697,
+        "lon": 26.031088
+      },
+      {
+        "stop_id": "6343",
+        "stop_name": "Godeni",
+        "lat": 44.464638,
+        "lon": 26.03902
+      },
+      {
+        "stop_id": "6352",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467354,
+        "lon": 26.031902
+      },
+      {
+        "stop_id": "6374",
+        "stop_name": "Rasadnitei",
+        "lat": 44.474445,
+        "lon": 26.005419
+      },
+      {
+        "stop_id": "6376",
+        "stop_name": "Giulesti Sarbi",
+        "lat": 44.471153,
+        "lon": 26.000944
+      },
+      {
+        "stop_id": "6612",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45745,
+        "lon": 26.041624
+      },
+      {
+        "stop_id": "6614",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45812,
+        "lon": 26.04122
+      },
+      {
+        "stop_id": "6782",
+        "stop_name": "Pod Eroilor",
+        "lat": 44.435413,
+        "lon": 26.075249
+      },
+      {
+        "stop_id": "6920",
+        "stop_name": "Witing",
+        "lat": 44.442913,
+        "lon": 26.071148
+      },
+      {
+        "stop_id": "6932",
+        "stop_name": "Pascal Cristian",
+        "lat": 44.446327,
+        "lon": 26.056845
+      },
+      {
+        "stop_id": "6934",
+        "stop_name": "Tibles",
+        "lat": 44.449986,
+        "lon": 26.05511
+      },
+      {
+        "stop_id": "7373",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.453075,
+        "lon": 26.04824
+      },
+      {
+        "stop_id": "7378",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.452267,
+        "lon": 26.047441
+      },
+      {
+        "stop_id": "7379",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.451977,
+        "lon": 26.05839
+      },
+      {
+        "stop_id": "7380",
+        "stop_name": "Spitalul Dr. Panait Sarbu",
+        "lat": 44.449486,
+        "lon": 26.061745
+      },
+      {
+        "stop_id": "7466",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.452744,
+        "lon": 26.046505
+      },
+      {
+        "stop_id": "7470",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.453407,
+        "lon": 26.045635
+      },
+      {
+        "stop_id": "7507",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453636,
+        "lon": 26.052967
+      },
+      {
+        "stop_id": "7516",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453686,
+        "lon": 26.051289
+      },
+      {
+        "stop_id": "7542",
+        "stop_name": "Poiana Lacului",
+        "lat": 44.467506,
+        "lon": 26.016249
+      },
+      {
+        "stop_id": "7549",
+        "stop_name": "Intrarea Caramidariei",
+        "lat": 44.467133,
+        "lon": 26.010883
+      },
+      {
+        "stop_id": "7551",
+        "stop_name": "Scoala",
+        "lat": 44.469913,
+        "lon": 26.003256
+      },
+      {
+        "stop_id": "7701",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.46938,
+        "lon": 26.025368
+      },
+      {
+        "stop_id": "7702",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.469456,
+        "lon": 26.025455
+      },
+      {
+        "stop_id": "9024",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.4593,
+        "lon": 26.040276
+      },
+      {
+        "stop_id": "9025",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.459534,
+        "lon": 26.040438
+      },
+      {
+        "stop_id": "9031",
+        "stop_name": "Piata Operei",
+        "lat": 44.43438,
+        "lon": 26.0765
+      },
+      {
+        "stop_id": "9032",
+        "stop_name": "Piata Operei",
+        "lat": 44.434353,
+        "lon": 26.07496
+      }
+    ]
+  },
+  {
+    "route_id": "133",
+    "route_short_name": "178",
+    "route_long_name": "Complex Apusului - Sala Palatului",
+    "stops": [
+      {
+        "stop_id": "12324",
+        "stop_name": "Dambovita",
+        "lat": 44.443325,
+        "lon": 26.036
+      },
+      {
+        "stop_id": "6019",
+        "stop_name": "Sala Palatului",
+        "lat": 44.437767,
+        "lon": 26.094929
+      },
+      {
+        "stop_id": "6059",
+        "stop_name": "Cismigiu",
+        "lat": 44.439816,
+        "lon": 26.089975
+      },
+      {
+        "stop_id": "6106",
+        "stop_name": "Piata Virgiliu",
+        "lat": 44.441795,
+        "lon": 26.079943
+      },
+      {
+        "stop_id": "6254",
+        "stop_name": "Calea Plevnei",
+        "lat": 44.44823,
+        "lon": 26.06554
+      },
+      {
+        "stop_id": "6277",
+        "stop_name": "Stirbei Voda",
+        "lat": 44.44035,
+        "lon": 26.093103
+      },
+      {
+        "stop_id": "6532",
+        "stop_name": "Popa Tatu",
+        "lat": 44.443275,
+        "lon": 26.083311
+      },
+      {
+        "stop_id": "6705",
+        "stop_name": "Constantin Cristescu",
+        "lat": 44.44008,
+        "lon": 26.085289
+      },
+      {
+        "stop_id": "6769",
+        "stop_name": "Cimitirul Militari",
+        "lat": 44.44177,
+        "lon": 26.02269
+      },
+      {
+        "stop_id": "7138",
+        "stop_name": "Apusului",
+        "lat": 44.443153,
+        "lon": 26.019226
+      },
+      {
+        "stop_id": "7141",
+        "stop_name": "Bd. Uverturii",
+        "lat": 44.443268,
+        "lon": 26.020086
+      },
+      {
+        "stop_id": "7248",
+        "stop_name": "Bd. Dinicu Golescu",
+        "lat": 44.44269,
+        "lon": 26.079552
+      },
+      {
+        "stop_id": "7249",
+        "stop_name": "Orsova",
+        "lat": 44.439682,
+        "lon": 26.035225
+      },
+      {
+        "stop_id": "7250",
+        "stop_name": "Pod Ciurel",
+        "lat": 44.44604,
+        "lon": 26.03827
+      },
+      {
+        "stop_id": "7264",
+        "stop_name": "Calea Giulesti",
+        "lat": 44.44815,
+        "lon": 26.064322
+      },
+      {
+        "stop_id": "7293",
+        "stop_name": "Aragonitului",
+        "lat": 44.440998,
+        "lon": 26.017204
+      },
+      {
+        "stop_id": "7308",
+        "stop_name": "Complex Apusului",
+        "lat": 44.43822,
+        "lon": 26.01502
+      },
+      {
+        "stop_id": "7372",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.453766,
+        "lon": 26.057655
+      },
+      {
+        "stop_id": "7373",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.453075,
+        "lon": 26.04824
+      },
+      {
+        "stop_id": "7374",
+        "stop_name": "Spitalul Dr. Panait Sarbu",
+        "lat": 44.450333,
+        "lon": 26.06081
+      },
+      {
+        "stop_id": "7375",
+        "stop_name": "Gara de Nord",
+        "lat": 44.44652,
+        "lon": 26.072954
+      },
+      {
+        "stop_id": "7378",
+        "stop_name": "Piata Crangasi",
+        "lat": 44.452267,
+        "lon": 26.047441
+      },
+      {
+        "stop_id": "7379",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.451977,
+        "lon": 26.05839
+      },
+      {
+        "stop_id": "7380",
+        "stop_name": "Spitalul Dr. Panait Sarbu",
+        "lat": 44.449486,
+        "lon": 26.061745
+      },
+      {
+        "stop_id": "7382",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445496,
+        "lon": 26.07429
+      },
+      {
+        "stop_id": "7395",
+        "stop_name": "Complex Apusului",
+        "lat": 44.43795,
+        "lon": 26.014345
+      },
+      {
+        "stop_id": "7440",
+        "stop_name": "Gara Basarab",
+        "lat": 44.448864,
+        "lon": 26.069199
+      },
+      {
+        "stop_id": "7457",
+        "stop_name": "Gara Basarab",
+        "lat": 44.449257,
+        "lon": 26.068924
+      },
+      {
+        "stop_id": "7465",
+        "stop_name": "Orsova",
+        "lat": 44.440536,
+        "lon": 26.035524
+      },
+      {
+        "stop_id": "7507",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453636,
+        "lon": 26.052967
+      },
+      {
+        "stop_id": "7516",
+        "stop_name": "Bd. Ceahlau",
+        "lat": 44.453686,
+        "lon": 26.051289
+      },
+      {
+        "stop_id": "7517",
+        "stop_name": "Pod Ciurel",
+        "lat": 44.44632,
+        "lon": 26.038746
+      },
+      {
+        "stop_id": "7592",
+        "stop_name": "Calea Grivitei",
+        "lat": 44.44382,
+        "lon": 26.089472
+      },
+      {
+        "stop_id": "7607",
+        "stop_name": "Cimitirul Militari",
+        "lat": 44.44217,
+        "lon": 26.022
+      },
+      {
+        "stop_id": "7609",
+        "stop_name": "Dezrobirii",
+        "lat": 44.440895,
+        "lon": 26.024849
+      },
+      {
+        "stop_id": "7610",
+        "stop_name": "Aragonitului",
+        "lat": 44.441433,
+        "lon": 26.017836
+      },
+      {
+        "stop_id": "7630",
+        "stop_name": "Dezrobirii",
+        "lat": 44.440235,
+        "lon": 26.02604
+      },
+      {
+        "stop_id": "7631",
+        "stop_name": "Pasaj Lujerului",
+        "lat": 44.436417,
+        "lon": 26.034409
+      },
+      {
+        "stop_id": "7632",
+        "stop_name": "Teatrul Masca",
+        "lat": 44.438553,
+        "lon": 26.029774
+      },
+      {
+        "stop_id": "7633",
+        "stop_name": "Teatrul Masca",
+        "lat": 44.438534,
+        "lon": 26.02996
+      },
+      {
+        "stop_id": "7634",
+        "stop_name": "Pasaj Lujerului",
+        "lat": 44.43696,
+        "lon": 26.03334
+      }
+    ]
+  },
+  {
+    "route_id": "134",
+    "route_short_name": "312",
+    "route_long_name": "Arcade Berceni - Piata Unirii 1",
+    "stops": [
+      {
+        "stop_id": "12020",
+        "stop_name": "V. V. Stanciu",
+        "lat": 44.413357,
+        "lon": 26.11712
+      },
+      {
+        "stop_id": "12021",
+        "stop_name": "Bd. Abatorului",
+        "lat": 44.41136,
+        "lon": 26.119305
+      },
+      {
+        "stop_id": "12022",
+        "stop_name": "Scorteni",
+        "lat": 44.411297,
+        "lon": 26.120173
+      },
+      {
+        "stop_id": "12023",
+        "stop_name": "Soseaua Mihai Bravu",
+        "lat": 44.409653,
+        "lon": 26.122211
+      },
+      {
+        "stop_id": "12059",
+        "stop_name": "Pasaj Mihai Bravu",
+        "lat": 44.4071,
+        "lon": 26.121758
+      },
+      {
+        "stop_id": "12060",
+        "stop_name": "Pod Timpuri Noi",
+        "lat": 44.41634,
+        "lon": 26.114685
+      },
+      {
+        "stop_id": "12061",
+        "stop_name": "Splaiul Unirii 45",
+        "lat": 44.419006,
+        "lon": 26.11183
+      },
+      {
+        "stop_id": "12062",
+        "stop_name": "Pasaj Mihai Bravu",
+        "lat": 44.40807,
+        "lon": 26.121197
+      },
+      {
+        "stop_id": "12063",
+        "stop_name": "Panait Cerna",
+        "lat": 44.42222,
+        "lon": 26.110378
+      },
+      {
+        "stop_id": "3668",
+        "stop_name": "Soseaua Oltenitei",
+        "lat": 44.394955,
+        "lon": 26.120995
+      },
+      {
+        "stop_id": "3671",
+        "stop_name": "Pridvorului",
+        "lat": 44.39998,
+        "lon": 26.121134
+      },
+      {
+        "stop_id": "3672",
+        "stop_name": "Bd. Alexandru Obregia",
+        "lat": 44.376835,
+        "lon": 26.121006
+      },
+      {
+        "stop_id": "3673",
+        "stop_name": "Pridvorului",
+        "lat": 44.39934,
+        "lon": 26.12078
+      },
+      {
+        "stop_id": "3674",
+        "stop_name": "Nitu Vasile",
+        "lat": 44.388546,
+        "lon": 26.11887
+      },
+      {
+        "stop_id": "3721",
+        "stop_name": "Aliorului",
+        "lat": 44.382294,
+        "lon": 26.124624
+      },
+      {
+        "stop_id": "3724",
+        "stop_name": "Aleea Raul Targului",
+        "lat": 44.38047,
+        "lon": 26.126396
+      },
+      {
+        "stop_id": "3725",
+        "stop_name": "Emil Racovita",
+        "lat": 44.388298,
+        "lon": 26.11901
+      },
+      {
+        "stop_id": "3726",
+        "stop_name": "Piata Sudului",
+        "lat": 44.393097,
+        "lon": 26.120592
+      },
+      {
+        "stop_id": "3730",
+        "stop_name": "Ciceu",
+        "lat": 44.37819,
+        "lon": 26.124338
+      },
+      {
+        "stop_id": "3787",
+        "stop_name": "Aleea Raul Targului",
+        "lat": 44.379993,
+        "lon": 26.126986
+      },
+      {
+        "stop_id": "3797",
+        "stop_name": "Costache Stamate",
+        "lat": 44.40426,
+        "lon": 26.120947
+      },
+      {
+        "stop_id": "3829",
+        "stop_name": "Piata Sudului",
+        "lat": 44.392563,
+        "lon": 26.1208
+      },
+      {
+        "stop_id": "3853",
+        "stop_name": "Aliorului",
+        "lat": 44.382694,
+        "lon": 26.124422
+      },
+      {
+        "stop_id": "3854",
+        "stop_name": "Costache Stamate",
+        "lat": 44.40397,
+        "lon": 26.121288
+      },
+      {
+        "stop_id": "3872",
+        "stop_name": "Ciceu",
+        "lat": 44.378113,
+        "lon": 26.123825
+      },
+      {
+        "stop_id": "3888",
+        "stop_name": "Spitalul Dr. Alexandru Obregia",
+        "lat": 44.384674,
+        "lon": 26.12237
+      },
+      {
+        "stop_id": "3890",
+        "stop_name": "Spitalul Dr. Alexandru Obregia",
+        "lat": 44.38501,
+        "lon": 26.122238
+      },
+      {
+        "stop_id": "6131",
+        "stop_name": "Piata Sf. Vineri",
+        "lat": 44.42992,
+        "lon": 26.10638
+      },
+      {
+        "stop_id": "6272",
+        "stop_name": "Pasaj Marasesti",
+        "lat": 44.421356,
+        "lon": 26.110065
+      },
+      {
+        "stop_id": "6302",
+        "stop_name": "Mircea Voda",
+        "lat": 44.42699,
+        "lon": 26.11208
+      },
+      {
+        "stop_id": "6411",
+        "stop_name": "Drumul Binelui",
+        "lat": 44.371414,
+        "lon": 26.122986
+      },
+      {
+        "stop_id": "6437",
+        "stop_name": "Drumul Binelui",
+        "lat": 44.36994,
+        "lon": 26.123562
+      },
+      {
+        "stop_id": "6438",
+        "stop_name": "Autobaza Obregia",
+        "lat": 44.37623,
+        "lon": 26.120523
+      },
+      {
+        "stop_id": "6555",
+        "stop_name": "Arcade Berceni",
+        "lat": 44.362686,
+        "lon": 26.123442
+      },
+      {
+        "stop_id": "6558",
+        "stop_name": "Arcade Berceni",
+        "lat": 44.362537,
+        "lon": 26.122978
+      },
+      {
+        "stop_id": "6679",
+        "stop_name": "Colectiv",
+        "lat": 44.41958,
+        "lon": 26.110762
+      },
+      {
+        "stop_id": "6823",
+        "stop_name": "Piata Unirii",
+        "lat": 44.42569,
+        "lon": 26.105124
+      },
+      {
+        "stop_id": "6977",
+        "stop_name": "Univ. Crestina Dimitrie Cantemir",
+        "lat": 44.41645,
+        "lon": 26.113785
+      },
+      {
+        "stop_id": "7142",
+        "stop_name": "Bd. Metalurgiei 29",
+        "lat": 44.37295,
+        "lon": 26.122255
+      },
+      {
+        "stop_id": "7145",
+        "stop_name": "Bd. Metalurgiei 29",
+        "lat": 44.373013,
+        "lon": 26.122072
+      },
+      {
+        "stop_id": "7333",
+        "stop_name": "Metro Berceni",
+        "lat": 44.36559,
+        "lon": 26.125633
+      },
+      {
+        "stop_id": "7335",
+        "stop_name": "Metro Berceni",
+        "lat": 44.365803,
+        "lon": 26.125711
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      }
+    ]
+  },
+  {
+    "route_id": "136",
+    "route_short_name": "311",
+    "route_long_name": "Faur - Sala Palatului",
+    "stops": [
+      {
+        "stop_id": "12280",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.439148,
+        "lon": 26.099981
+      },
+      {
+        "stop_id": "12281",
+        "stop_name": "Sala Palatului",
+        "lat": 44.437664,
+        "lon": 26.095354
+      },
+      {
+        "stop_id": "12283",
+        "stop_name": "C.A. Rosetti",
+        "lat": 44.441227,
+        "lon": 26.103903
+      },
+      {
+        "stop_id": "12284",
+        "stop_name": "Vasile Lascar",
+        "lat": 44.442184,
+        "lon": 26.11
+      },
+      {
+        "stop_id": "12285",
+        "stop_name": "Calea Mosilor",
+        "lat": 44.44082,
+        "lon": 26.116362
+      },
+      {
+        "stop_id": "12441",
+        "stop_name": "Luterana",
+        "lat": 44.44021,
+        "lon": 26.094145
+      },
+      {
+        "stop_id": "3694",
+        "stop_name": "Calea Mosilor",
+        "lat": 44.437935,
+        "lon": 26.115002
+      },
+      {
+        "stop_id": "3695",
+        "stop_name": "Traian",
+        "lat": 44.438755,
+        "lon": 26.11967
+      },
+      {
+        "stop_id": "3704",
+        "stop_name": "Soseaua Mihai Bravu",
+        "lat": 44.424377,
+        "lon": 26.138256
+      },
+      {
+        "stop_id": "3718",
+        "stop_name": "Ion Tuculescu",
+        "lat": 44.4252,
+        "lon": 26.143707
+      },
+      {
+        "stop_id": "3764",
+        "stop_name": "Teatrul National",
+        "lat": 44.435925,
+        "lon": 26.104206
+      },
+      {
+        "stop_id": "3866",
+        "stop_name": "Armeneasca",
+        "lat": 44.43707,
+        "lon": 26.11058
+      },
+      {
+        "stop_id": "3880",
+        "stop_name": "Ion Tuculescu",
+        "lat": 44.42522,
+        "lon": 26.144886
+      },
+      {
+        "stop_id": "3899",
+        "stop_name": "Calea Mosilor",
+        "lat": 44.43785,
+        "lon": 26.115316
+      },
+      {
+        "stop_id": "3902",
+        "stop_name": "Traian",
+        "lat": 44.438686,
+        "lon": 26.119722
+      },
+      {
+        "stop_id": "6151",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.440533,
+        "lon": 26.099014
+      },
+      {
+        "stop_id": "6275",
+        "stop_name": "Sold. Mihale Stelian",
+        "lat": 44.415947,
+        "lon": 26.166883
+      },
+      {
+        "stop_id": "6369",
+        "stop_name": "Piata Iancului",
+        "lat": 44.440132,
+        "lon": 26.134417
+      },
+      {
+        "stop_id": "6370",
+        "stop_name": "Scoala Iancului",
+        "lat": 44.439426,
+        "lon": 26.123722
+      },
+      {
+        "stop_id": "6371",
+        "stop_name": "Gheorghe Petrascu",
+        "lat": 44.428394,
+        "lon": 26.138529
+      },
+      {
+        "stop_id": "6372",
+        "stop_name": "Vatra Luminoasa",
+        "lat": 44.436874,
+        "lon": 26.136482
+      },
+      {
+        "stop_id": "6373",
+        "stop_name": "Baba Novac",
+        "lat": 44.42553,
+        "lon": 26.13735
+      },
+      {
+        "stop_id": "6375",
+        "stop_name": "Gheorghe Petrascu",
+        "lat": 44.427982,
+        "lon": 26.13868
+      },
+      {
+        "stop_id": "6377",
+        "stop_name": "Maior Coravu",
+        "lat": 44.4358,
+        "lon": 26.137302
+      },
+      {
+        "stop_id": "6426",
+        "stop_name": "Scoala Iancului",
+        "lat": 44.439518,
+        "lon": 26.123758
+      },
+      {
+        "stop_id": "6470",
+        "stop_name": "Piata Iancului",
+        "lat": 44.441074,
+        "lon": 26.132252
+      },
+      {
+        "stop_id": "6710",
+        "stop_name": "Baba Novac",
+        "lat": 44.424232,
+        "lon": 26.13839
+      },
+      {
+        "stop_id": "6763",
+        "stop_name": "Pod Lacuri",
+        "lat": 44.424274,
+        "lon": 26.15878
+      },
+      {
+        "stop_id": "6764",
+        "stop_name": "Pod Lacuri",
+        "lat": 44.42413,
+        "lon": 26.156506
+      },
+      {
+        "stop_id": "6919",
+        "stop_name": "Faur",
+        "lat": 44.426426,
+        "lon": 26.179852
+      },
+      {
+        "stop_id": "7235",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.424454,
+        "lon": 26.163288
+      },
+      {
+        "stop_id": "7315",
+        "stop_name": "Soseaua Campia Libertatii",
+        "lat": 44.42549,
+        "lon": 26.150084
+      },
+      {
+        "stop_id": "7361",
+        "stop_name": "Soseaua Campia Libertatii",
+        "lat": 44.425514,
+        "lon": 26.149967
+      },
+      {
+        "stop_id": "7552",
+        "stop_name": "Codrii Neamtului",
+        "lat": 44.41742,
+        "lon": 26.17108
+      },
+      {
+        "stop_id": "7553",
+        "stop_name": "Bd. Nicolae Grigorescu",
+        "lat": 44.415916,
+        "lon": 26.166248
+      },
+      {
+        "stop_id": "7554",
+        "stop_name": "Bd. 1 Decembrie 1918",
+        "lat": 44.41862,
+        "lon": 26.176031
+      },
+      {
+        "stop_id": "7555",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.42487,
+        "lon": 26.16212
+      },
+      {
+        "stop_id": "7557",
+        "stop_name": "Postavarului",
+        "lat": 44.417706,
+        "lon": 26.165224
+      },
+      {
+        "stop_id": "7558",
+        "stop_name": "Policlinica Titan",
+        "lat": 44.42052,
+        "lon": 26.164627
+      },
+      {
+        "stop_id": "7568",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.423748,
+        "lon": 26.177366
+      },
+      {
+        "stop_id": "7573",
+        "stop_name": "Piata Revolutiei",
+        "lat": 44.438114,
+        "lon": 26.097227
+      },
+      {
+        "stop_id": "7589",
+        "stop_name": "Liviu Rebreanu",
+        "lat": 44.423252,
+        "lon": 26.176579
+      },
+      {
+        "stop_id": "7590",
+        "stop_name": "Faur",
+        "lat": 44.42624,
+        "lon": 26.17895
+      },
+      {
+        "stop_id": "7603",
+        "stop_name": "Bd. 1 Decembrie 1918",
+        "lat": 44.41799,
+        "lon": 26.176306
+      },
+      {
+        "stop_id": "7627",
+        "stop_name": "Policlinica Titan",
+        "lat": 44.42053,
+        "lon": 26.164318
+      },
+      {
+        "stop_id": "7628",
+        "stop_name": "Postavarului",
+        "lat": 44.417164,
+        "lon": 26.164927
+      },
+      {
+        "stop_id": "7629",
+        "stop_name": "Codrii Neamtului",
+        "lat": 44.41739,
+        "lon": 26.172153
+      }
+    ]
+  },
+  {
+    "route_id": "137",
+    "route_short_name": "N113",
+    "route_long_name": "Piata Unirii 2 - Mezes",
+    "stops": [
+      {
+        "stop_id": "12332",
+        "stop_name": "Carpati",
+        "lat": 44.473797,
+        "lon": 26.046682
+      },
+      {
+        "stop_id": "12333",
+        "stop_name": "Cransebes",
+        "lat": 44.46861,
+        "lon": 26.050058
+      },
+      {
+        "stop_id": "12334",
+        "stop_name": "Soveja",
+        "lat": 44.47413,
+        "lon": 26.053019
+      },
+      {
+        "stop_id": "12353",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43893,
+        "lon": 26.100842
+      },
+      {
+        "stop_id": "12354",
+        "stop_name": "Arthur Verona",
+        "lat": 44.442543,
+        "lon": 26.099022
+      },
+      {
+        "stop_id": "12514",
+        "stop_name": "George Enescu",
+        "lat": 44.44335,
+        "lon": 26.098335
+      },
+      {
+        "stop_id": "3241",
+        "stop_name": "Mezes",
+        "lat": 44.485394,
+        "lon": 26.023005
+      },
+      {
+        "stop_id": "3686",
+        "stop_name": "Carpati",
+        "lat": 44.473137,
+        "lon": 26.048635
+      },
+      {
+        "stop_id": "5972",
+        "stop_name": "Orlando",
+        "lat": 44.449665,
+        "lon": 26.091034
+      },
+      {
+        "stop_id": "6000",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.45151,
+        "lon": 26.08743
+      },
+      {
+        "stop_id": "6139",
+        "stop_name": "Crinului",
+        "lat": 44.48049,
+        "lon": 26.034271
+      },
+      {
+        "stop_id": "6141",
+        "stop_name": "Crinului",
+        "lat": 44.481014,
+        "lon": 26.033445
+      },
+      {
+        "stop_id": "6143",
+        "stop_name": "Minerva",
+        "lat": 44.478806,
+        "lon": 26.038534
+      },
+      {
+        "stop_id": "6145",
+        "stop_name": "Minerva",
+        "lat": 44.479317,
+        "lon": 26.037691
+      },
+      {
+        "stop_id": "6156",
+        "stop_name": "Sandu Aldea",
+        "lat": 44.467728,
+        "lon": 26.06177
+      },
+      {
+        "stop_id": "6209",
+        "stop_name": "Bd. Banu Manta",
+        "lat": 44.455498,
+        "lon": 26.080873
+      },
+      {
+        "stop_id": "6211",
+        "stop_name": "Bd. Banu Manta",
+        "lat": 44.455486,
+        "lon": 26.080666
+      },
+      {
+        "stop_id": "6270",
+        "stop_name": "Spitalul Clinic Filantropia",
+        "lat": 44.453342,
+        "lon": 26.083067
+      },
+      {
+        "stop_id": "6434",
+        "stop_name": "Piata Romana",
+        "lat": 44.446087,
+        "lon": 26.097027
+      },
+      {
+        "stop_id": "6588",
+        "stop_name": "Piata Romana",
+        "lat": 44.445347,
+        "lon": 26.097654
+      },
+      {
+        "stop_id": "6597",
+        "stop_name": "Aviator Popisteanu",
+        "lat": 44.468327,
+        "lon": 26.059938
+      },
+      {
+        "stop_id": "6598",
+        "stop_name": "Piata Victoriei",
+        "lat": 44.45155,
+        "lon": 26.087814
+      },
+      {
+        "stop_id": "6599",
+        "stop_name": "Povernei",
+        "lat": 44.449127,
+        "lon": 26.092724
+      },
+      {
+        "stop_id": "6733",
+        "stop_name": "Vasile Gherghel",
+        "lat": 44.463955,
+        "lon": 26.070225
+      },
+      {
+        "stop_id": "6849",
+        "stop_name": "Muzeul Taranului Roman",
+        "lat": 44.453804,
+        "lon": 26.082785
+      },
+      {
+        "stop_id": "6855",
+        "stop_name": "Subcetate",
+        "lat": 44.4829,
+        "lon": 26.028818
+      },
+      {
+        "stop_id": "6856",
+        "stop_name": "Marmurei",
+        "lat": 44.48258,
+        "lon": 26.029139
+      },
+      {
+        "stop_id": "6883",
+        "stop_name": "Piata Ion Mihalache",
+        "lat": 44.458977,
+        "lon": 26.076572
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "6987",
+        "stop_name": "Aviator Popisteanu",
+        "lat": 44.469177,
+        "lon": 26.059296
+      },
+      {
+        "stop_id": "7055",
+        "stop_name": "Piata Domenii",
+        "lat": 44.46539,
+        "lon": 26.067518
+      },
+      {
+        "stop_id": "7056",
+        "stop_name": "Bd. Maresal Averescu",
+        "lat": 44.46267,
+        "lon": 26.072128
+      },
+      {
+        "stop_id": "7057",
+        "stop_name": "Piata Ion Mihalache",
+        "lat": 44.458847,
+        "lon": 26.077007
+      },
+      {
+        "stop_id": "7080",
+        "stop_name": "Bd. Maresal Averescu",
+        "lat": 44.461468,
+        "lon": 26.073378
+      },
+      {
+        "stop_id": "7256",
+        "stop_name": "Universitate",
+        "lat": 44.434372,
+        "lon": 26.103134
+      },
+      {
+        "stop_id": "7296",
+        "stop_name": "Soseaua Chitila",
+        "lat": 44.47685,
+        "lon": 26.044096
+      },
+      {
+        "stop_id": "7297",
+        "stop_name": "Bd. Bucurestii Noi",
+        "lat": 44.47679,
+        "lon": 26.043547
+      },
+      {
+        "stop_id": "7314",
+        "stop_name": "Mezes",
+        "lat": 44.48457,
+        "lon": 26.024164
+      },
+      {
+        "stop_id": "7383",
+        "stop_name": "Clabucet",
+        "lat": 44.47064,
+        "lon": 26.051867
+      },
+      {
+        "stop_id": "7411",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43989,
+        "lon": 26.10006
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7438",
+        "stop_name": "Piata Domenii",
+        "lat": 44.465393,
+        "lon": 26.067122
+      },
+      {
+        "stop_id": "7462",
+        "stop_name": "Piata 21 Decembrie 1989",
+        "lat": 44.43646,
+        "lon": 26.101799
+      },
+      {
+        "stop_id": "7514",
+        "stop_name": "Piata Unirii 5",
+        "lat": 44.428066,
+        "lon": 26.103987
+      }
+    ]
+  },
+  {
+    "route_id": "139",
+    "route_short_name": "N112",
+    "route_long_name": "Piata Unirii 4 - Piata Resita",
+    "stops": [
+      {
+        "stop_id": "3665",
+        "stop_name": "Piata Resita",
+        "lat": 44.379807,
+        "lon": 26.099216
+      },
+      {
+        "stop_id": "3667",
+        "stop_name": "Bd. Marasesti",
+        "lat": 44.42025,
+        "lon": 26.103899
+      },
+      {
+        "stop_id": "3678",
+        "stop_name": "Bd. Marasesti",
+        "lat": 44.42006,
+        "lon": 26.104223
+      },
+      {
+        "stop_id": "3731",
+        "stop_name": "Piata Resita",
+        "lat": 44.37946,
+        "lon": 26.099031
+      },
+      {
+        "stop_id": "3774",
+        "stop_name": "Bd. Constantin Brancoveanu",
+        "lat": 44.38764,
+        "lon": 26.109245
+      },
+      {
+        "stop_id": "3776",
+        "stop_name": "Straja",
+        "lat": 44.38516,
+        "lon": 26.10197
+      },
+      {
+        "stop_id": "3777",
+        "stop_name": "Bd. Constantin Brancoveanu",
+        "lat": 44.38756,
+        "lon": 26.109257
+      },
+      {
+        "stop_id": "3778",
+        "stop_name": "Straja",
+        "lat": 44.38417,
+        "lon": 26.101183
+      },
+      {
+        "stop_id": "3782",
+        "stop_name": "Colegiul National Gh. Sincai",
+        "lat": 44.415115,
+        "lon": 26.104584
+      },
+      {
+        "stop_id": "3810",
+        "stop_name": "Resita",
+        "lat": 44.38805,
+        "lon": 26.104227
+      },
+      {
+        "stop_id": "3851",
+        "stop_name": "Izvorul Rece",
+        "lat": 44.38835,
+        "lon": 26.105467
+      },
+      {
+        "stop_id": "5924",
+        "stop_name": "Cimitirul Serban Voda",
+        "lat": 44.40102,
+        "lon": 26.100626
+      },
+      {
+        "stop_id": "5960",
+        "stop_name": "Bd. Constantin Brancoveanu",
+        "lat": 44.3989,
+        "lon": 26.108181
+      },
+      {
+        "stop_id": "5961",
+        "stop_name": "Opris Ilie",
+        "lat": 44.400394,
+        "lon": 26.103577
+      },
+      {
+        "stop_id": "5962",
+        "stop_name": "Cimitirul Serban Voda",
+        "lat": 44.402393,
+        "lon": 26.09849
+      },
+      {
+        "stop_id": "6104",
+        "stop_name": "Spitalul de Copii",
+        "lat": 44.389484,
+        "lon": 26.109947
+      },
+      {
+        "stop_id": "6105",
+        "stop_name": "Spitalul de Copii",
+        "lat": 44.389038,
+        "lon": 26.109829
+      },
+      {
+        "stop_id": "6389",
+        "stop_name": "Secuilor",
+        "lat": 44.39237,
+        "lon": 26.109924
+      },
+      {
+        "stop_id": "6390",
+        "stop_name": "Secuilor",
+        "lat": 44.391666,
+        "lon": 26.10978
+      },
+      {
+        "stop_id": "6509",
+        "stop_name": "Bd. Constantin Brancoveanu",
+        "lat": 44.396885,
+        "lon": 26.109753
+      },
+      {
+        "stop_id": "6746",
+        "stop_name": "Opris Ilie",
+        "lat": 44.39963,
+        "lon": 26.10576
+      },
+      {
+        "stop_id": "7163",
+        "stop_name": "Colegiul National Gh. Sincai",
+        "lat": 44.414867,
+        "lon": 26.104338
+      },
+      {
+        "stop_id": "7274",
+        "stop_name": "Cutitul de Argint",
+        "lat": 44.408276,
+        "lon": 26.09635
+      },
+      {
+        "stop_id": "7277",
+        "stop_name": "Adesgo",
+        "lat": 44.41114,
+        "lon": 26.09987
+      },
+      {
+        "stop_id": "7385",
+        "stop_name": "Adesgo",
+        "lat": 44.411495,
+        "lon": 26.10074
+      },
+      {
+        "stop_id": "7387",
+        "stop_name": "Cimitirul Eroilor Revolutiei",
+        "lat": 44.40609,
+        "lon": 26.096048
+      },
+      {
+        "stop_id": "7388",
+        "stop_name": "Cutitul de Argint",
+        "lat": 44.409225,
+        "lon": 26.097652
+      },
+      {
+        "stop_id": "7416",
+        "stop_name": "Cimitirul Eroilor Revolutiei",
+        "lat": 44.406788,
+        "lon": 26.095419
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7510",
+        "stop_name": "Piata Unirii 3",
+        "lat": 44.425816,
+        "lon": 26.103266
+      },
+      {
+        "stop_id": "7512",
+        "stop_name": "Piata Unirii 4",
+        "lat": 44.427807,
+        "lon": 26.104
+      }
+    ]
+  },
+  {
+    "route_id": "140",
+    "route_short_name": "N111",
+    "route_long_name": "Piata Unirii 4 - Complex Titan",
+    "stops": [
+      {
+        "stop_id": "12446",
+        "stop_name": "Complex Titan",
+        "lat": 44.405804,
+        "lon": 26.202238
+      },
+      {
+        "stop_id": "5963",
+        "stop_name": "Lucian Blaga",
+        "lat": 44.426,
+        "lon": 26.12243
+      },
+      {
+        "stop_id": "5966",
+        "stop_name": "Bucuresti Mall",
+        "lat": 44.420456,
+        "lon": 26.125301
+      },
+      {
+        "stop_id": "5967",
+        "stop_name": "Bucuresti Mall",
+        "lat": 44.420105,
+        "lon": 26.12581
+      },
+      {
+        "stop_id": "6082",
+        "stop_name": "Zizin",
+        "lat": 44.418095,
+        "lon": 26.128351
+      },
+      {
+        "stop_id": "6159",
+        "stop_name": "Soseaua Mihai Bravu",
+        "lat": 44.41593,
+        "lon": 26.131313
+      },
+      {
+        "stop_id": "6436",
+        "stop_name": "Biblioteca Nationala a Romaniei",
+        "lat": 44.42624,
+        "lon": 26.112543
+      },
+      {
+        "stop_id": "6448",
+        "stop_name": "Bd. I. C. Bratianu",
+        "lat": 44.42658,
+        "lon": 26.104881
+      },
+      {
+        "stop_id": "6453",
+        "stop_name": "Traian",
+        "lat": 44.426174,
+        "lon": 26.118414
+      },
+      {
+        "stop_id": "6456",
+        "stop_name": "Biblioteca Nationala a Romaniei",
+        "lat": 44.4265,
+        "lon": 26.111385
+      },
+      {
+        "stop_id": "6516",
+        "stop_name": "Traian",
+        "lat": 44.4259,
+        "lon": 26.119888
+      },
+      {
+        "stop_id": "6538",
+        "stop_name": "Piata Titan",
+        "lat": 44.41334,
+        "lon": 26.16294
+      },
+      {
+        "stop_id": "6540",
+        "stop_name": "Ilioara",
+        "lat": 44.413967,
+        "lon": 26.15641
+      },
+      {
+        "stop_id": "6542",
+        "stop_name": "Ilioara",
+        "lat": 44.413494,
+        "lon": 26.157383
+      },
+      {
+        "stop_id": "6678",
+        "stop_name": "Bd. 1 Decembrie 1918",
+        "lat": 44.411095,
+        "lon": 26.172075
+      },
+      {
+        "stop_id": "6684",
+        "stop_name": "Ozana",
+        "lat": 44.41034,
+        "lon": 26.17704
+      },
+      {
+        "stop_id": "6685",
+        "stop_name": "Lunca Jaristei",
+        "lat": 44.40943,
+        "lon": 26.183002
+      },
+      {
+        "stop_id": "6686",
+        "stop_name": "Bd. Theodor Pallady 45",
+        "lat": 44.40854,
+        "lon": 26.188738
+      },
+      {
+        "stop_id": "6688",
+        "stop_name": "M Nicolae Teclu",
+        "lat": 44.40805,
+        "lon": 26.191872
+      },
+      {
+        "stop_id": "6691",
+        "stop_name": "Dumbrava Noua",
+        "lat": 44.412296,
+        "lon": 26.167568
+      },
+      {
+        "stop_id": "6699",
+        "stop_name": "Dumbrava Noua",
+        "lat": 44.411785,
+        "lon": 26.168333
+      },
+      {
+        "stop_id": "6703",
+        "stop_name": "Piata Titan",
+        "lat": 44.41269,
+        "lon": 26.164957
+      },
+      {
+        "stop_id": "6862",
+        "stop_name": "Calea Vitan",
+        "lat": 44.41432,
+        "lon": 26.133003
+      },
+      {
+        "stop_id": "6894",
+        "stop_name": "Ozana",
+        "lat": 44.409843,
+        "lon": 26.178366
+      },
+      {
+        "stop_id": "6895",
+        "stop_name": "Lunca Jaristei",
+        "lat": 44.409008,
+        "lon": 26.183954
+      },
+      {
+        "stop_id": "6896",
+        "stop_name": "Bd. 1 Decembrie 1918",
+        "lat": 44.410553,
+        "lon": 26.173695
+      },
+      {
+        "stop_id": "6902",
+        "stop_name": "M Nicolae Teclu",
+        "lat": 44.40762,
+        "lon": 26.19271
+      },
+      {
+        "stop_id": "6905",
+        "stop_name": "Bd. Theodor Pallady 45",
+        "lat": 44.408085,
+        "lon": 26.189705
+      },
+      {
+        "stop_id": "6927",
+        "stop_name": "Complex Titan",
+        "lat": 44.40619,
+        "lon": 26.200916
+      },
+      {
+        "stop_id": "7029",
+        "stop_name": "Complex Vitan",
+        "lat": 44.408882,
+        "lon": 26.139278
+      },
+      {
+        "stop_id": "7031",
+        "stop_name": "Complex Vitan",
+        "lat": 44.409023,
+        "lon": 26.138954
+      },
+      {
+        "stop_id": "7038",
+        "stop_name": "Tandarei",
+        "lat": 44.4107,
+        "lon": 26.148052
+      },
+      {
+        "stop_id": "7039",
+        "stop_name": "Tandarei",
+        "lat": 44.41163,
+        "lon": 26.148487
+      },
+      {
+        "stop_id": "7108",
+        "stop_name": "Energeticienilor",
+        "lat": 44.40676,
+        "lon": 26.145657
+      },
+      {
+        "stop_id": "7114",
+        "stop_name": "Energeticienilor",
+        "lat": 44.40713,
+        "lon": 26.14483
+      },
+      {
+        "stop_id": "7285",
+        "stop_name": "Stadion Olimpia",
+        "lat": 44.411304,
+        "lon": 26.135963
+      },
+      {
+        "stop_id": "7307",
+        "stop_name": "Stadion Olimpia",
+        "lat": 44.41124,
+        "lon": 26.13589
+      },
+      {
+        "stop_id": "7309",
+        "stop_name": "Fizicienilor",
+        "lat": 44.414577,
+        "lon": 26.153734
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7439",
+        "stop_name": "Piata Vitan",
+        "lat": 44.42342,
+        "lon": 26.12295
+      },
+      {
+        "stop_id": "7458",
+        "stop_name": "Zizin",
+        "lat": 44.41738,
+        "lon": 26.128954
+      },
+      {
+        "stop_id": "7510",
+        "stop_name": "Piata Unirii 3",
+        "lat": 44.425816,
+        "lon": 26.103266
+      },
+      {
+        "stop_id": "7512",
+        "stop_name": "Piata Unirii 4",
+        "lat": 44.427807,
+        "lon": 26.104
+      },
+      {
+        "stop_id": "7584",
+        "stop_name": "Piata Vitan",
+        "lat": 44.423084,
+        "lon": 26.1237
+      },
+      {
+        "stop_id": "7594",
+        "stop_name": "Lucian Blaga",
+        "lat": 44.425095,
+        "lon": 26.122972
+      },
+      {
+        "stop_id": "7604",
+        "stop_name": "Fizicienilor",
+        "lat": 44.414257,
+        "lon": 26.15224
+      }
+    ]
+  },
+  {
+    "route_id": "141",
+    "route_short_name": "N110",
+    "route_long_name": "Piata Unirii 2 - Cartier Giulesti",
+    "stops": [
+      {
+        "stop_id": "12496",
+        "stop_name": "Piata Natiunile Unite",
+        "lat": 44.429745,
+        "lon": 26.096094
+      },
+      {
+        "stop_id": "3691",
+        "stop_name": "Stirbei Voda",
+        "lat": 44.436417,
+        "lon": 26.07441
+      },
+      {
+        "stop_id": "5964",
+        "stop_name": "M Petrache Poenaru",
+        "lat": 44.445297,
+        "lon": 26.047346
+      },
+      {
+        "stop_id": "5968",
+        "stop_name": "Elie Radu",
+        "lat": 44.433426,
+        "lon": 26.091553
+      },
+      {
+        "stop_id": "5969",
+        "stop_name": "Pod Grozavesti",
+        "lat": 44.44265,
+        "lon": 26.061834
+      },
+      {
+        "stop_id": "5992",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470356,
+        "lon": 26.021477
+      },
+      {
+        "stop_id": "6002",
+        "stop_name": "Cartier Giulesti",
+        "lat": 44.470055,
+        "lon": 26.02247
+      },
+      {
+        "stop_id": "6147",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.463497,
+        "lon": 26.041449
+      },
+      {
+        "stop_id": "6148",
+        "stop_name": "Mehadiei",
+        "lat": 44.45654,
+        "lon": 26.042725
+      },
+      {
+        "stop_id": "6158",
+        "stop_name": "Economu Atanase Stoicescu",
+        "lat": 44.443466,
+        "lon": 26.057285
+      },
+      {
+        "stop_id": "6160",
+        "stop_name": "Universitatea Politehnica",
+        "lat": 44.444183,
+        "lon": 26.053593
+      },
+      {
+        "stop_id": "6163",
+        "stop_name": "Pod Cotroceni",
+        "lat": 44.43783,
+        "lon": 26.070507
+      },
+      {
+        "stop_id": "6171",
+        "stop_name": "Bd. Constructorilor",
+        "lat": 44.46215,
+        "lon": 26.0408
+      },
+      {
+        "stop_id": "6173",
+        "stop_name": "Mehadiei",
+        "lat": 44.455833,
+        "lon": 26.043224
+      },
+      {
+        "stop_id": "6175",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.46859,
+        "lon": 26.027983
+      },
+      {
+        "stop_id": "6177",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466366,
+        "lon": 26.035086
+      },
+      {
+        "stop_id": "6202",
+        "stop_name": "Piata Giulesti",
+        "lat": 44.466484,
+        "lon": 26.035048
+      },
+      {
+        "stop_id": "6204",
+        "stop_name": "Institutul Pasteur",
+        "lat": 44.468967,
+        "lon": 26.027025
+      },
+      {
+        "stop_id": "6339",
+        "stop_name": "Godeni",
+        "lat": 44.465153,
+        "lon": 26.03834
+      },
+      {
+        "stop_id": "6342",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467697,
+        "lon": 26.031088
+      },
+      {
+        "stop_id": "6343",
+        "stop_name": "Godeni",
+        "lat": 44.464638,
+        "lon": 26.03902
+      },
+      {
+        "stop_id": "6352",
+        "stop_name": "Copsa Mica",
+        "lat": 44.467354,
+        "lon": 26.031902
+      },
+      {
+        "stop_id": "6485",
+        "stop_name": "Camin U4",
+        "lat": 44.444157,
+        "lon": 26.056545
+      },
+      {
+        "stop_id": "6511",
+        "stop_name": "Opera Nationala",
+        "lat": 44.43414,
+        "lon": 26.080713
+      },
+      {
+        "stop_id": "6520",
+        "stop_name": "Pod Hasdeu",
+        "lat": 44.43395,
+        "lon": 26.083513
+      },
+      {
+        "stop_id": "6536",
+        "stop_name": "Pod Hasdeu",
+        "lat": 44.433365,
+        "lon": 26.084858
+      },
+      {
+        "stop_id": "6552",
+        "stop_name": "Piata Natiunile Unite",
+        "lat": 44.42999,
+        "lon": 26.096945
+      },
+      {
+        "stop_id": "6554",
+        "stop_name": "Piata Unirii",
+        "lat": 44.429127,
+        "lon": 26.102396
+      },
+      {
+        "stop_id": "6608",
+        "stop_name": "E.L.C.E.N.",
+        "lat": 44.44031,
+        "lon": 26.066126
+      },
+      {
+        "stop_id": "6612",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45745,
+        "lon": 26.041624
+      },
+      {
+        "stop_id": "6614",
+        "stop_name": "Complex Comercial",
+        "lat": 44.45812,
+        "lon": 26.04122
+      },
+      {
+        "stop_id": "6618",
+        "stop_name": "Complex Regie",
+        "lat": 44.44485,
+        "lon": 26.052832
+      },
+      {
+        "stop_id": "6621",
+        "stop_name": "G-ral Petre Popovat",
+        "lat": 44.445747,
+        "lon": 26.048006
+      },
+      {
+        "stop_id": "6639",
+        "stop_name": "Spitalul Universitar",
+        "lat": 44.436844,
+        "lon": 26.072512
+      },
+      {
+        "stop_id": "6649",
+        "stop_name": "Opera Nationala",
+        "lat": 44.434944,
+        "lon": 26.078003
+      },
+      {
+        "stop_id": "6782",
+        "stop_name": "Pod Eroilor",
+        "lat": 44.435413,
+        "lon": 26.075249
+      },
+      {
+        "stop_id": "6809",
+        "stop_name": "Complex Grozavesti",
+        "lat": 44.44265,
+        "lon": 26.06322
+      },
+      {
+        "stop_id": "6810",
+        "stop_name": "A.N.E.F.S.",
+        "lat": 44.438915,
+        "lon": 26.0696
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "7250",
+        "stop_name": "Pod Ciurel",
+        "lat": 44.44604,
+        "lon": 26.03827
+      },
+      {
+        "stop_id": "7284",
+        "stop_name": "Facultatea de Filosofie",
+        "lat": 44.440826,
+        "lon": 26.066332
+      },
+      {
+        "stop_id": "7427",
+        "stop_name": "Pod Izvor",
+        "lat": 44.43299,
+        "lon": 26.09069
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7466",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.452744,
+        "lon": 26.046505
+      },
+      {
+        "stop_id": "7470",
+        "stop_name": "Calea Crangasi",
+        "lat": 44.453407,
+        "lon": 26.045635
+      },
+      {
+        "stop_id": "7512",
+        "stop_name": "Piata Unirii 4",
+        "lat": 44.427807,
+        "lon": 26.104
+      },
+      {
+        "stop_id": "7523",
+        "stop_name": "Teatrul Bulandra",
+        "lat": 44.43362,
+        "lon": 26.08859
+      },
+      {
+        "stop_id": "7626",
+        "stop_name": "Facultatea Medicina Veterinara",
+        "lat": 44.433613,
+        "lon": 26.081022
+      },
+      {
+        "stop_id": "7701",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.46938,
+        "lon": 26.025368
+      },
+      {
+        "stop_id": "7702",
+        "stop_name": "Drumul La Rosu",
+        "lat": 44.469456,
+        "lon": 26.025455
+      },
+      {
+        "stop_id": "9024",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.4593,
+        "lon": 26.040276
+      },
+      {
+        "stop_id": "9025",
+        "stop_name": "Liceul Teoretic Marin Preda",
+        "lat": 44.459534,
+        "lon": 26.040438
+      }
+    ]
+  },
+  {
+    "route_id": "143",
+    "route_short_name": "106",
+    "route_long_name": "C.E.T. Vest Militari - Cartier Rosu",
+    "stops": [
+      {
+        "stop_id": "3727",
+        "stop_name": "Autogara Militari",
+        "lat": 44.43372,
+        "lon": 26.007061
+      },
+      {
+        "stop_id": "6247",
+        "stop_name": "C.E.T. Vest Militari",
+        "lat": 44.422264,
+        "lon": 25.983181
+      },
+      {
+        "stop_id": "6250",
+        "stop_name": "C.E.T. Vest Militari",
+        "lat": 44.422215,
+        "lon": 25.982666
+      },
+      {
+        "stop_id": "6381",
+        "stop_name": "Bd. Preciziei",
+        "lat": 44.432224,
+        "lon": 26.005201
+      },
+      {
+        "stop_id": "6409",
+        "stop_name": "Liniei",
+        "lat": 44.4293,
+        "lon": 26.002375
+      },
+      {
+        "stop_id": "6410",
+        "stop_name": "Bd. Preciziei",
+        "lat": 44.432285,
+        "lon": 26.005001
+      },
+      {
+        "stop_id": "6568",
+        "stop_name": "Margelelor",
+        "lat": 44.44014,
+        "lon": 26.01189
+      },
+      {
+        "stop_id": "6575",
+        "stop_name": "Cartier Rosu",
+        "lat": 44.441498,
+        "lon": 26.003653
+      },
+      {
+        "stop_id": "6577",
+        "stop_name": "Ghirlandei",
+        "lat": 44.43955,
+        "lon": 26.015383
+      },
+      {
+        "stop_id": "6581",
+        "stop_name": "Catinei",
+        "lat": 44.44063,
+        "lon": 26.005598
+      },
+      {
+        "stop_id": "6582",
+        "stop_name": "Bd. Anul 1864",
+        "lat": 44.43807,
+        "lon": 26.009237
+      },
+      {
+        "stop_id": "6585",
+        "stop_name": "Stramosilor",
+        "lat": 44.43885,
+        "lon": 26.00717
+      },
+      {
+        "stop_id": "6586",
+        "stop_name": "Margelelor",
+        "lat": 44.438347,
+        "lon": 26.01032
+      },
+      {
+        "stop_id": "6587",
+        "stop_name": "Ghirlandei",
+        "lat": 44.440514,
+        "lon": 26.013268
+      },
+      {
+        "stop_id": "6730",
+        "stop_name": "Bd. Timisoara 90",
+        "lat": 44.423195,
+        "lon": 25.99571
+      },
+      {
+        "stop_id": "6731",
+        "stop_name": "Bd. Timisoara 90",
+        "lat": 44.4232,
+        "lon": 25.994625
+      },
+      {
+        "stop_id": "6747",
+        "stop_name": "Bd. Timisoara 92",
+        "lat": 44.42289,
+        "lon": 25.99207
+      },
+      {
+        "stop_id": "6748",
+        "stop_name": "Firos",
+        "lat": 44.42252,
+        "lon": 25.987381
+      },
+      {
+        "stop_id": "6749",
+        "stop_name": "Bd. Timisoara 92",
+        "lat": 44.42293,
+        "lon": 25.991467
+      },
+      {
+        "stop_id": "6751",
+        "stop_name": "Firos",
+        "lat": 44.422535,
+        "lon": 25.98705
+      },
+      {
+        "stop_id": "6963",
+        "stop_name": "Tufanelelor",
+        "lat": 44.439667,
+        "lon": 26.005114
+      },
+      {
+        "stop_id": "7076",
+        "stop_name": "Bd. Iuliu Maniu",
+        "lat": 44.434563,
+        "lon": 26.011637
+      },
+      {
+        "stop_id": "7077",
+        "stop_name": "Bd. Iuliu Maniu",
+        "lat": 44.434692,
+        "lon": 26.011969
+      },
+      {
+        "stop_id": "7308",
+        "stop_name": "Complex Apusului",
+        "lat": 44.43822,
+        "lon": 26.01502
+      },
+      {
+        "stop_id": "7310",
+        "stop_name": "Complex Comercial Apusului",
+        "lat": 44.43777,
+        "lon": 26.014385
+      },
+      {
+        "stop_id": "7502",
+        "stop_name": "Liniei",
+        "lat": 44.427593,
+        "lon": 26.001158
+      },
+      {
+        "stop_id": "7531",
+        "stop_name": "Valea Cascadelor",
+        "lat": 44.42352,
+        "lon": 25.99839
+      },
+      {
+        "stop_id": "7550",
+        "stop_name": "Valea Cascadelor",
+        "lat": 44.424984,
+        "lon": 25.999271
+      },
+      {
+        "stop_id": "7713",
+        "stop_name": "Tufanelelor",
+        "lat": 44.439438,
+        "lon": 26.005796
+      }
+    ]
+  },
+  {
+    "route_id": "144",
+    "route_short_name": "105",
+    "route_long_name": "Valea Oltului - Soseaua Nicolae Titulescu",
+    "stops": [
+      {
+        "stop_id": "12182",
+        "stop_name": "Piata Drumul Taberei",
+        "lat": 44.422146,
+        "lon": 26.03578
+      },
+      {
+        "stop_id": "12184",
+        "stop_name": "Parc Drumul Taberei",
+        "lat": 44.422314,
+        "lon": 26.033667
+      },
+      {
+        "stop_id": "12439",
+        "stop_name": "Bd. Gheorghe Duca",
+        "lat": 44.449696,
+        "lon": 26.078257
+      },
+      {
+        "stop_id": "3676",
+        "stop_name": "Orizont",
+        "lat": 44.42532,
+        "lon": 26.051224
+      },
+      {
+        "stop_id": "3706",
+        "stop_name": "Orizont",
+        "lat": 44.425434,
+        "lon": 26.053465
+      },
+      {
+        "stop_id": "3773",
+        "stop_name": "Posta",
+        "lat": 44.416862,
+        "lon": 26.020496
+      },
+      {
+        "stop_id": "3783",
+        "stop_name": "Gara de Nord",
+        "lat": 44.448284,
+        "lon": 26.074188
+      },
+      {
+        "stop_id": "3855",
+        "stop_name": "Bd. Iuliu Maniu",
+        "lat": 44.433514,
+        "lon": 26.054474
+      },
+      {
+        "stop_id": "3858",
+        "stop_name": "Bd. Timisoara",
+        "lat": 44.429974,
+        "lon": 26.054335
+      },
+      {
+        "stop_id": "3860",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445652,
+        "lon": 26.074987
+      },
+      {
+        "stop_id": "3861",
+        "stop_name": "Bd. Iuliu Maniu",
+        "lat": 44.433353,
+        "lon": 26.054247
+      },
+      {
+        "stop_id": "3917",
+        "stop_name": "Valea Argesului",
+        "lat": 44.41571,
+        "lon": 26.015676
+      },
+      {
+        "stop_id": "3927",
+        "stop_name": "Bd. Timisoara",
+        "lat": 44.427998,
+        "lon": 26.05475
+      },
+      {
+        "stop_id": "6049",
+        "stop_name": "Soseaua Nicolae Titulescu",
+        "lat": 44.45072,
+        "lon": 26.070103
+      },
+      {
+        "stop_id": "6254",
+        "stop_name": "Calea Plevnei",
+        "lat": 44.44823,
+        "lon": 26.06554
+      },
+      {
+        "stop_id": "6255",
+        "stop_name": "Podul Grozavesti",
+        "lat": 44.440964,
+        "lon": 26.059547
+      },
+      {
+        "stop_id": "6289",
+        "stop_name": "Valea Argesului",
+        "lat": 44.415783,
+        "lon": 26.015547
+      },
+      {
+        "stop_id": "6298",
+        "stop_name": "Soseaua Orhideelor",
+        "lat": 44.443943,
+        "lon": 26.060925
+      },
+      {
+        "stop_id": "6318",
+        "stop_name": "Bd. Regiei",
+        "lat": 44.446205,
+        "lon": 26.060328
+      },
+      {
+        "stop_id": "6319",
+        "stop_name": "Calea Giulesti",
+        "lat": 44.447235,
+        "lon": 26.06202
+      },
+      {
+        "stop_id": "6321",
+        "stop_name": "Podul Grozavesti",
+        "lat": 44.44213,
+        "lon": 26.060163
+      },
+      {
+        "stop_id": "6425",
+        "stop_name": "Piata Valea Ialomitei",
+        "lat": 44.420486,
+        "lon": 26.020159
+      },
+      {
+        "stop_id": "6852",
+        "stop_name": "Poiana Muntelui",
+        "lat": 44.422318,
+        "lon": 26.030205
+      },
+      {
+        "stop_id": "6853",
+        "stop_name": "Romancierilor",
+        "lat": 44.422962,
+        "lon": 26.025679
+      },
+      {
+        "stop_id": "6854",
+        "stop_name": "Piata Valea Ialomitei",
+        "lat": 44.42131,
+        "lon": 26.020975
+      },
+      {
+        "stop_id": "6858",
+        "stop_name": "Piata Drumul Taberei",
+        "lat": 44.42243,
+        "lon": 26.035854
+      },
+      {
+        "stop_id": "6860",
+        "stop_name": "Romancierilor",
+        "lat": 44.423183,
+        "lon": 26.024603
+      },
+      {
+        "stop_id": "6861",
+        "stop_name": "Poiana Muntelui",
+        "lat": 44.422592,
+        "lon": 26.029772
+      },
+      {
+        "stop_id": "6868",
+        "stop_name": "Drumul Taberei 34",
+        "lat": 44.423203,
+        "lon": 26.041292
+      },
+      {
+        "stop_id": "6869",
+        "stop_name": "Favorit",
+        "lat": 44.42425,
+        "lon": 26.046143
+      },
+      {
+        "stop_id": "7013",
+        "stop_name": "Drumul Taberei 35",
+        "lat": 44.42302,
+        "lon": 26.041794
+      },
+      {
+        "stop_id": "7014",
+        "stop_name": "Favorit",
+        "lat": 44.424286,
+        "lon": 26.047655
+      },
+      {
+        "stop_id": "7069",
+        "stop_name": "Gara de Nord",
+        "lat": 44.447166,
+        "lon": 26.075363
+      },
+      {
+        "stop_id": "7236",
+        "stop_name": "Drumul Taberei 85",
+        "lat": 44.41774,
+        "lon": 26.020905
+      },
+      {
+        "stop_id": "7331",
+        "stop_name": "Valea Oltului",
+        "lat": 44.413033,
+        "lon": 26.014807
+      },
+      {
+        "stop_id": "7334",
+        "stop_name": "Valea Oltului",
+        "lat": 44.413322,
+        "lon": 26.014826
+      },
+      {
+        "stop_id": "7382",
+        "stop_name": "Gara de Nord",
+        "lat": 44.445496,
+        "lon": 26.07429
+      },
+      {
+        "stop_id": "7440",
+        "stop_name": "Gara Basarab",
+        "lat": 44.448864,
+        "lon": 26.069199
+      },
+      {
+        "stop_id": "7457",
+        "stop_name": "Gara Basarab",
+        "lat": 44.449257,
+        "lon": 26.068924
+      }
+    ]
+  },
+  {
+    "route_id": "145",
+    "route_short_name": "N119",
+    "route_long_name": "Piata Unirii 2 - Complex Baneasa",
+    "stops": [
+      {
+        "stop_id": "10682",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.461784,
+        "lon": 26.094912
+      },
+      {
+        "stop_id": "12205",
+        "stop_name": "Piata Dorobanti",
+        "lat": 44.461124,
+        "lon": 26.094584
+      },
+      {
+        "stop_id": "12288",
+        "stop_name": "Aeroport Baneasa",
+        "lat": 44.497303,
+        "lon": 26.07957
+      },
+      {
+        "stop_id": "12353",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43893,
+        "lon": 26.100842
+      },
+      {
+        "stop_id": "12354",
+        "stop_name": "Arthur Verona",
+        "lat": 44.442543,
+        "lon": 26.099022
+      },
+      {
+        "stop_id": "12514",
+        "stop_name": "George Enescu",
+        "lat": 44.44335,
+        "lon": 26.098335
+      },
+      {
+        "stop_id": "5931",
+        "stop_name": "Perla",
+        "lat": 44.45367,
+        "lon": 26.098433
+      },
+      {
+        "stop_id": "5949",
+        "stop_name": "Soseaua Stefan cel Mare",
+        "lat": 44.453907,
+        "lon": 26.09814
+      },
+      {
+        "stop_id": "5958",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.49406,
+        "lon": 26.083408
+      },
+      {
+        "stop_id": "6304",
+        "stop_name": "A.S.E.",
+        "lat": 44.4476,
+        "lon": 26.099356
+      },
+      {
+        "stop_id": "6344",
+        "stop_name": "Colegiul National I.L. Caragiale",
+        "lat": 44.457172,
+        "lon": 26.09622
+      },
+      {
+        "stop_id": "6345",
+        "stop_name": "Colegiul National I.L. Caragiale",
+        "lat": 44.458256,
+        "lon": 26.095692
+      },
+      {
+        "stop_id": "6406",
+        "stop_name": "Soseaua Fabrica de Glucoza",
+        "lat": 44.474983,
+        "lon": 26.10407
+      },
+      {
+        "stop_id": "6408",
+        "stop_name": "M Aurel Vlaicu",
+        "lat": 44.47922,
+        "lon": 26.101732
+      },
+      {
+        "stop_id": "6418",
+        "stop_name": "Sala Lucian Grigorescu",
+        "lat": 44.46438,
+        "lon": 26.095722
+      },
+      {
+        "stop_id": "6434",
+        "stop_name": "Piata Romana",
+        "lat": 44.446087,
+        "lon": 26.097027
+      },
+      {
+        "stop_id": "6588",
+        "stop_name": "Piata Romana",
+        "lat": 44.445347,
+        "lon": 26.097654
+      },
+      {
+        "stop_id": "6624",
+        "stop_name": "Piata Baneasa",
+        "lat": 44.493908,
+        "lon": 26.083426
+      },
+      {
+        "stop_id": "6879",
+        "stop_name": "Sala Lucian Grigorescu",
+        "lat": 44.4652,
+        "lon": 26.095877
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "6952",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.507843,
+        "lon": 26.08634
+      },
+      {
+        "stop_id": "6961",
+        "stop_name": "Complex Baneasa",
+        "lat": 44.508137,
+        "lon": 26.08602
+      },
+      {
+        "stop_id": "7034",
+        "stop_name": "Ancuta Baneasa",
+        "lat": 44.47031,
+        "lon": 26.104439
+      },
+      {
+        "stop_id": "7037",
+        "stop_name": "Ancuta Baneasa",
+        "lat": 44.469765,
+        "lon": 26.104021
+      },
+      {
+        "stop_id": "7047",
+        "stop_name": "Soseaua Fabrica de Glucoza",
+        "lat": 44.474884,
+        "lon": 26.104296
+      },
+      {
+        "stop_id": "7093",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.485855,
+        "lon": 26.094687
+      },
+      {
+        "stop_id": "7095",
+        "stop_name": "Maguricea",
+        "lat": 44.484776,
+        "lon": 26.096506
+      },
+      {
+        "stop_id": "7120",
+        "stop_name": "Soseaua Pipera",
+        "lat": 44.48107,
+        "lon": 26.101652
+      },
+      {
+        "stop_id": "7127",
+        "stop_name": "Maguricea",
+        "lat": 44.483284,
+        "lon": 26.098291
+      },
+      {
+        "stop_id": "7129",
+        "stop_name": "Pasaj Baneasa",
+        "lat": 44.48661,
+        "lon": 26.093813
+      },
+      {
+        "stop_id": "7183",
+        "stop_name": "A.S.E.",
+        "lat": 44.44729,
+        "lon": 26.099491
+      },
+      {
+        "stop_id": "7231",
+        "stop_name": "Ceaikovski",
+        "lat": 44.46627,
+        "lon": 26.102186
+      },
+      {
+        "stop_id": "7256",
+        "stop_name": "Universitate",
+        "lat": 44.434372,
+        "lon": 26.103134
+      },
+      {
+        "stop_id": "7258",
+        "stop_name": "M Aurel Vlaicu",
+        "lat": 44.47893,
+        "lon": 26.101757
+      },
+      {
+        "stop_id": "7355",
+        "stop_name": "Apicola",
+        "lat": 44.492695,
+        "lon": 26.08773
+      },
+      {
+        "stop_id": "7411",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43989,
+        "lon": 26.10006
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7462",
+        "stop_name": "Piata 21 Decembrie 1989",
+        "lat": 44.43646,
+        "lon": 26.101799
+      },
+      {
+        "stop_id": "7514",
+        "stop_name": "Piata Unirii 5",
+        "lat": 44.428066,
+        "lon": 26.103987
+      },
+      {
+        "stop_id": "7544",
+        "stop_name": "Hotel Phoenicia",
+        "lat": 44.49254,
+        "lon": 26.08776
+      },
+      {
+        "stop_id": "7561",
+        "stop_name": "Soseaua Bucuresti-Ploiesti",
+        "lat": 44.494305,
+        "lon": 26.08014
+      }
+    ]
+  },
+  {
+    "route_id": "146",
+    "route_short_name": "104",
+    "route_long_name": "Complex Pantelimon - Piata Operei",
+    "stops": [
+      {
+        "stop_id": "12496",
+        "stop_name": "Piata Natiunile Unite",
+        "lat": 44.429745,
+        "lon": 26.096094
+      },
+      {
+        "stop_id": "3705",
+        "stop_name": "Bd. Pierre de Coubertin",
+        "lat": 44.440968,
+        "lon": 26.150093
+      },
+      {
+        "stop_id": "3711",
+        "stop_name": "Soseaua Mihai Bravu",
+        "lat": 44.4378,
+        "lon": 26.137438
+      },
+      {
+        "stop_id": "3712",
+        "stop_name": "Lt. Victor Manu",
+        "lat": 44.438534,
+        "lon": 26.1405
+      },
+      {
+        "stop_id": "3713",
+        "stop_name": "Aura Buzescu",
+        "lat": 44.43994,
+        "lon": 26.14586
+      },
+      {
+        "stop_id": "3771",
+        "stop_name": "Dumitru Marinescu",
+        "lat": 44.439228,
+        "lon": 26.143051
+      },
+      {
+        "stop_id": "3840",
+        "stop_name": "Lt. Victor Manu",
+        "lat": 44.438667,
+        "lon": 26.140625
+      },
+      {
+        "stop_id": "3841",
+        "stop_name": "Aura Buzescu",
+        "lat": 44.440056,
+        "lon": 26.145824
+      },
+      {
+        "stop_id": "3842",
+        "stop_name": "Bd. Pierre de Coubertin",
+        "lat": 44.441055,
+        "lon": 26.149776
+      },
+      {
+        "stop_id": "5963",
+        "stop_name": "Lucian Blaga",
+        "lat": 44.426,
+        "lon": 26.12243
+      },
+      {
+        "stop_id": "5968",
+        "stop_name": "Elie Radu",
+        "lat": 44.433426,
+        "lon": 26.091553
+      },
+      {
+        "stop_id": "6372",
+        "stop_name": "Vatra Luminoasa",
+        "lat": 44.436874,
+        "lon": 26.136482
+      },
+      {
+        "stop_id": "6377",
+        "stop_name": "Maior Coravu",
+        "lat": 44.4358,
+        "lon": 26.137302
+      },
+      {
+        "stop_id": "6423",
+        "stop_name": "Dristorului",
+        "lat": 44.42816,
+        "lon": 26.132095
+      },
+      {
+        "stop_id": "6429",
+        "stop_name": "Piata Hurmuzachi",
+        "lat": 44.43162,
+        "lon": 26.137877
+      },
+      {
+        "stop_id": "6436",
+        "stop_name": "Biblioteca Nationala a Romaniei",
+        "lat": 44.42624,
+        "lon": 26.112543
+      },
+      {
+        "stop_id": "6448",
+        "stop_name": "Bd. I. C. Bratianu",
+        "lat": 44.42658,
+        "lon": 26.104881
+      },
+      {
+        "stop_id": "6453",
+        "stop_name": "Traian",
+        "lat": 44.426174,
+        "lon": 26.118414
+      },
+      {
+        "stop_id": "6454",
+        "stop_name": "Piata Alba Iulia",
+        "lat": 44.425766,
+        "lon": 26.12735
+      },
+      {
+        "stop_id": "6455",
+        "stop_name": "Bd. I. C. Bratianu",
+        "lat": 44.426792,
+        "lon": 26.105122
+      },
+      {
+        "stop_id": "6456",
+        "stop_name": "Biblioteca Nationala a Romaniei",
+        "lat": 44.4265,
+        "lon": 26.111385
+      },
+      {
+        "stop_id": "6486",
+        "stop_name": "Lucian Blaga",
+        "lat": 44.42571,
+        "lon": 26.123812
+      },
+      {
+        "stop_id": "6511",
+        "stop_name": "Opera Nationala",
+        "lat": 44.43414,
+        "lon": 26.080713
+      },
+      {
+        "stop_id": "6514",
+        "stop_name": "Dristorului",
+        "lat": 44.428616,
+        "lon": 26.133257
+      },
+      {
+        "stop_id": "6515",
+        "stop_name": "Piata Hurmuzachi",
+        "lat": 44.43135,
+        "lon": 26.137766
+      },
+      {
+        "stop_id": "6516",
+        "stop_name": "Traian",
+        "lat": 44.4259,
+        "lon": 26.119888
+      },
+      {
+        "stop_id": "6518",
+        "stop_name": "Piata Alba Iulia",
+        "lat": 44.426693,
+        "lon": 26.129972
+      },
+      {
+        "stop_id": "6520",
+        "stop_name": "Pod Hasdeu",
+        "lat": 44.43395,
+        "lon": 26.083513
+      },
+      {
+        "stop_id": "6536",
+        "stop_name": "Pod Hasdeu",
+        "lat": 44.433365,
+        "lon": 26.084858
+      },
+      {
+        "stop_id": "6552",
+        "stop_name": "Piata Natiunile Unite",
+        "lat": 44.42999,
+        "lon": 26.096945
+      },
+      {
+        "stop_id": "6554",
+        "stop_name": "Piata Unirii",
+        "lat": 44.429127,
+        "lon": 26.102396
+      },
+      {
+        "stop_id": "6721",
+        "stop_name": "Complex Pantelimon",
+        "lat": 44.4393,
+        "lon": 26.187428
+      },
+      {
+        "stop_id": "6723",
+        "stop_name": "Spitalul Pantelimon",
+        "lat": 44.442234,
+        "lon": 26.171621
+      },
+      {
+        "stop_id": "6724",
+        "stop_name": "Soseaua Fundeni",
+        "lat": 44.4427,
+        "lon": 26.1633
+      },
+      {
+        "stop_id": "6725",
+        "stop_name": "Complex Pantelimon",
+        "lat": 44.43929,
+        "lon": 26.188837
+      },
+      {
+        "stop_id": "6726",
+        "stop_name": "Liceul Lucian Blaga",
+        "lat": 44.44097,
+        "lon": 26.181183
+      },
+      {
+        "stop_id": "6727",
+        "stop_name": "Bd. Chisinau",
+        "lat": 44.442623,
+        "lon": 26.159885
+      },
+      {
+        "stop_id": "6728",
+        "stop_name": "Soseaua Iancului",
+        "lat": 44.442596,
+        "lon": 26.14992
+      },
+      {
+        "stop_id": "6735",
+        "stop_name": "Soseaua Morarilor",
+        "lat": 44.442307,
+        "lon": 26.167294
+      },
+      {
+        "stop_id": "6736",
+        "stop_name": "Spitalul Pantelimon",
+        "lat": 44.441746,
+        "lon": 26.17493
+      },
+      {
+        "stop_id": "6737",
+        "stop_name": "Liceul Lucian Blaga",
+        "lat": 44.440857,
+        "lon": 26.180475
+      },
+      {
+        "stop_id": "6782",
+        "stop_name": "Pod Eroilor",
+        "lat": 44.435413,
+        "lon": 26.075249
+      },
+      {
+        "stop_id": "7427",
+        "stop_name": "Pod Izvor",
+        "lat": 44.43299,
+        "lon": 26.09069
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7523",
+        "stop_name": "Teatrul Bulandra",
+        "lat": 44.43362,
+        "lon": 26.08859
+      },
+      {
+        "stop_id": "7581",
+        "stop_name": "Soseaua Dudesti-Pantelimon",
+        "lat": 44.44065,
+        "lon": 26.19203
+      },
+      {
+        "stop_id": "7617",
+        "stop_name": "Soseaua Iancului",
+        "lat": 44.443203,
+        "lon": 26.1526
+      },
+      {
+        "stop_id": "7620",
+        "stop_name": "Bd. Chisinau",
+        "lat": 44.44313,
+        "lon": 26.156115
+      },
+      {
+        "stop_id": "7626",
+        "stop_name": "Facultatea Medicina Veterinara",
+        "lat": 44.433613,
+        "lon": 26.081022
+      },
+      {
+        "stop_id": "8499",
+        "stop_name": "Pantelimon",
+        "lat": 44.439964,
+        "lon": 26.18451
+      },
+      {
+        "stop_id": "9031",
+        "stop_name": "Piata Operei",
+        "lat": 44.43438,
+        "lon": 26.0765
+      },
+      {
+        "stop_id": "9032",
+        "stop_name": "Piata Operei",
+        "lat": 44.434353,
+        "lon": 26.07496
+      }
+    ]
+  },
+  {
+    "route_id": "147",
+    "route_short_name": "N118",
+    "route_long_name": "Piata Unirii 2 - Zetarilor",
+    "stops": [
+      {
+        "stop_id": "3231",
+        "stop_name": "Piata Regina Maria",
+        "lat": 44.422016,
+        "lon": 26.09149
+      },
+      {
+        "stop_id": "5935",
+        "stop_name": "Soseaua Progresului",
+        "lat": 44.414425,
+        "lon": 26.080956
+      },
+      {
+        "stop_id": "5936",
+        "stop_name": "Doina",
+        "lat": 44.411366,
+        "lon": 26.07858
+      },
+      {
+        "stop_id": "5950",
+        "stop_name": "Soseaua Progresului",
+        "lat": 44.41366,
+        "lon": 26.08025
+      },
+      {
+        "stop_id": "5952",
+        "stop_name": "Doina",
+        "lat": 44.41072,
+        "lon": 26.077946
+      },
+      {
+        "stop_id": "5957",
+        "stop_name": "Soseaua Viilor",
+        "lat": 44.41627,
+        "lon": 26.083134
+      },
+      {
+        "stop_id": "6690",
+        "stop_name": "Piata Ferentari",
+        "lat": 44.39891,
+        "lon": 26.084778
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "6976",
+        "stop_name": "Nasaud",
+        "lat": 44.409138,
+        "lon": 26.077085
+      },
+      {
+        "stop_id": "7049",
+        "stop_name": "Vadul Nou",
+        "lat": 44.393375,
+        "lon": 26.082945
+      },
+      {
+        "stop_id": "7050",
+        "stop_name": "Valtoarei",
+        "lat": 44.39029,
+        "lon": 26.080757
+      },
+      {
+        "stop_id": "7051",
+        "stop_name": "Zetarilor",
+        "lat": 44.386284,
+        "lon": 26.077637
+      },
+      {
+        "stop_id": "7136",
+        "stop_name": "Sos. Viilor",
+        "lat": 44.41698,
+        "lon": 26.083418
+      },
+      {
+        "stop_id": "7261",
+        "stop_name": "11 Iunie",
+        "lat": 44.424507,
+        "lon": 26.09613
+      },
+      {
+        "stop_id": "7311",
+        "stop_name": "Piata Ferentarilor",
+        "lat": 44.397408,
+        "lon": 26.08487
+      },
+      {
+        "stop_id": "7342",
+        "stop_name": "Piata Chirigiu",
+        "lat": 44.417934,
+        "lon": 26.082947
+      },
+      {
+        "stop_id": "7348",
+        "stop_name": "Vadul Nou",
+        "lat": 44.392433,
+        "lon": 26.08242
+      },
+      {
+        "stop_id": "7352",
+        "stop_name": "Valtoarei",
+        "lat": 44.389454,
+        "lon": 26.080349
+      },
+      {
+        "stop_id": "7353",
+        "stop_name": "Zetarilor",
+        "lat": 44.387203,
+        "lon": 26.078365
+      },
+      {
+        "stop_id": "7364",
+        "stop_name": "Piata Regina Maria",
+        "lat": 44.421936,
+        "lon": 26.091208
+      },
+      {
+        "stop_id": "7393",
+        "stop_name": "11 Iunie",
+        "lat": 44.423504,
+        "lon": 26.094433
+      },
+      {
+        "stop_id": "7403",
+        "stop_name": "Piata Chirigiu",
+        "lat": 44.417427,
+        "lon": 26.082472
+      },
+      {
+        "stop_id": "7412",
+        "stop_name": "Calea Ferentari",
+        "lat": 44.408592,
+        "lon": 26.077902
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7512",
+        "stop_name": "Piata Unirii 4",
+        "lat": 44.427807,
+        "lon": 26.104
+      }
+    ]
+  },
+  {
+    "route_id": "148",
+    "route_short_name": "103",
+    "route_long_name": "Pantelimon - Isovolta",
+    "stops": [
+      {
+        "stop_id": "10841",
+        "stop_name": "M Republica",
+        "lat": 44.433258,
+        "lon": 26.187214
+      },
+      {
+        "stop_id": "10842",
+        "stop_name": "M Republica",
+        "lat": 44.434067,
+        "lon": 26.186739
+      },
+      {
+        "stop_id": "12072",
+        "stop_name": "Pantelimon",
+        "lat": 44.440334,
+        "lon": 26.183077
+      },
+      {
+        "stop_id": "12073",
+        "stop_name": "Pantelimon",
+        "lat": 44.440258,
+        "lon": 26.183521
+      },
+      {
+        "stop_id": "6080",
+        "stop_name": "ICME",
+        "lat": 44.42354,
+        "lon": 26.219883
+      },
+      {
+        "stop_id": "6083",
+        "stop_name": "Fabrica de Oxigen",
+        "lat": 44.420418,
+        "lon": 26.218866
+      },
+      {
+        "stop_id": "6084",
+        "stop_name": "Isovolta",
+        "lat": 44.415413,
+        "lon": 26.217884
+      },
+      {
+        "stop_id": "6091",
+        "stop_name": "Gura Racului",
+        "lat": 44.41145,
+        "lon": 26.218262
+      },
+      {
+        "stop_id": "6121",
+        "stop_name": "Liceul Dragomir Hurmuzescu",
+        "lat": 44.43219,
+        "lon": 26.19198
+      },
+      {
+        "stop_id": "6123",
+        "stop_name": "Liceul Dragomir Hurmuzescu",
+        "lat": 44.432415,
+        "lon": 26.191437
+      },
+      {
+        "stop_id": "6153",
+        "stop_name": "Catanoaia",
+        "lat": 44.42687,
+        "lon": 26.216091
+      },
+      {
+        "stop_id": "6157",
+        "stop_name": "Catanoaia",
+        "lat": 44.426678,
+        "lon": 26.216497
+      },
+      {
+        "stop_id": "6164",
+        "stop_name": "Gura Racului",
+        "lat": 44.412476,
+        "lon": 26.218079
+      },
+      {
+        "stop_id": "6208",
+        "stop_name": "Scoala Generala 55",
+        "lat": 44.429836,
+        "lon": 26.202444
+      },
+      {
+        "stop_id": "6210",
+        "stop_name": "Mileanca",
+        "lat": 44.428593,
+        "lon": 26.207932
+      },
+      {
+        "stop_id": "6212",
+        "stop_name": "Meiului",
+        "lat": 44.431442,
+        "lon": 26.19527
+      },
+      {
+        "stop_id": "6215",
+        "stop_name": "Grindeiului",
+        "lat": 44.430885,
+        "lon": 26.197718
+      },
+      {
+        "stop_id": "6216",
+        "stop_name": "Grindeiului",
+        "lat": 44.431084,
+        "lon": 26.197344
+      },
+      {
+        "stop_id": "6219",
+        "stop_name": "Mileanca",
+        "lat": 44.428764,
+        "lon": 26.207628
+      },
+      {
+        "stop_id": "6221",
+        "stop_name": "Scoala Generala 55",
+        "lat": 44.429993,
+        "lon": 26.202137
+      },
+      {
+        "stop_id": "6223",
+        "stop_name": "Soldat Radu Tina",
+        "lat": 44.427532,
+        "lon": 26.212688
+      },
+      {
+        "stop_id": "6228",
+        "stop_name": "I. C. M. E. Poarta 1",
+        "lat": 44.42312,
+        "lon": 26.219639
+      },
+      {
+        "stop_id": "6244",
+        "stop_name": "Soldat Radu Tina",
+        "lat": 44.42772,
+        "lon": 26.212282
+      },
+      {
+        "stop_id": "6472",
+        "stop_name": "Soseaua Garii Catelu",
+        "lat": 44.425274,
+        "lon": 26.220568
+      },
+      {
+        "stop_id": "6533",
+        "stop_name": "Soseaua Garii Catelu",
+        "lat": 44.425404,
+        "lon": 26.220764
+      },
+      {
+        "stop_id": "7059",
+        "stop_name": "Fabrica de Oxigen",
+        "lat": 44.421303,
+        "lon": 26.219053
+      },
+      {
+        "stop_id": "7267",
+        "stop_name": "Isovolta",
+        "lat": 44.415573,
+        "lon": 26.217777
+      },
+      {
+        "stop_id": "7581",
+        "stop_name": "Soseaua Dudesti-Pantelimon",
+        "lat": 44.44065,
+        "lon": 26.19203
+      }
+    ]
+  },
+  {
+    "route_id": "149",
+    "route_short_name": "N117",
+    "route_long_name": "Piata Unirii 2 - M Straulesti",
+    "stops": [
+      {
+        "stop_id": "12332",
+        "stop_name": "Carpati",
+        "lat": 44.473797,
+        "lon": 26.046682
+      },
+      {
+        "stop_id": "12333",
+        "stop_name": "Cransebes",
+        "lat": 44.46861,
+        "lon": 26.050058
+      },
+      {
+        "stop_id": "12334",
+        "stop_name": "Soveja",
+        "lat": 44.47413,
+        "lon": 26.053019
+      },
+      {
+        "stop_id": "12353",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43893,
+        "lon": 26.100842
+      },
+      {
+        "stop_id": "12354",
+        "stop_name": "Arthur Verona",
+        "lat": 44.442543,
+        "lon": 26.099022
+      },
+      {
+        "stop_id": "12438",
+        "stop_name": "Polizu",
+        "lat": 44.44659,
+        "lon": 26.078257
+      },
+      {
+        "stop_id": "12514",
+        "stop_name": "George Enescu",
+        "lat": 44.44335,
+        "lon": 26.098335
+      },
+      {
+        "stop_id": "3656",
+        "stop_name": "Caraiman",
+        "lat": 44.460262,
+        "lon": 26.058634
+      },
+      {
+        "stop_id": "3659",
+        "stop_name": "Cimitirul Sfanta Vineri",
+        "lat": 44.458477,
+        "lon": 26.060013
+      },
+      {
+        "stop_id": "3686",
+        "stop_name": "Carpati",
+        "lat": 44.473137,
+        "lon": 26.048635
+      },
+      {
+        "stop_id": "3687",
+        "stop_name": "Depoul Bucurestii Noi",
+        "lat": 44.47803,
+        "lon": 26.04476
+      },
+      {
+        "stop_id": "3732",
+        "stop_name": "R.A.R.",
+        "lat": 44.468815,
+        "lon": 26.05198
+      },
+      {
+        "stop_id": "3733",
+        "stop_name": "Soseaua Nicolae Titulescu",
+        "lat": 44.450256,
+        "lon": 26.069515
+      },
+      {
+        "stop_id": "3734",
+        "stop_name": "Gara de Nord",
+        "lat": 44.44807,
+        "lon": 26.074272
+      },
+      {
+        "stop_id": "3736",
+        "stop_name": "Nicolae Titulescu",
+        "lat": 44.45074,
+        "lon": 26.068975
+      },
+      {
+        "stop_id": "3738",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.45629,
+        "lon": 26.061798
+      },
+      {
+        "stop_id": "3746",
+        "stop_name": "Soseaua Chitilei",
+        "lat": 44.477253,
+        "lon": 26.045124
+      },
+      {
+        "stop_id": "3747",
+        "stop_name": "Pajurei",
+        "lat": 44.47977,
+        "lon": 26.043173
+      },
+      {
+        "stop_id": "3783",
+        "stop_name": "Gara de Nord",
+        "lat": 44.448284,
+        "lon": 26.074188
+      },
+      {
+        "stop_id": "3792",
+        "stop_name": "Stoica Ludescu",
+        "lat": 44.453663,
+        "lon": 26.06441
+      },
+      {
+        "stop_id": "3795",
+        "stop_name": "Stoica Ludescu",
+        "lat": 44.45266,
+        "lon": 26.065685
+      },
+      {
+        "stop_id": "3798",
+        "stop_name": "Lainici",
+        "lat": 44.465595,
+        "lon": 26.05426
+      },
+      {
+        "stop_id": "3850",
+        "stop_name": "R.A.R.",
+        "lat": 44.468033,
+        "lon": 26.052355
+      },
+      {
+        "stop_id": "3918",
+        "stop_name": "M Grivita",
+        "lat": 44.461063,
+        "lon": 26.057764
+      },
+      {
+        "stop_id": "3921",
+        "stop_name": "Caraiman",
+        "lat": 44.45925,
+        "lon": 26.05918
+      },
+      {
+        "stop_id": "3931",
+        "stop_name": "Cimitirul Sfanta Vineri",
+        "lat": 44.45753,
+        "lon": 26.060518
+      },
+      {
+        "stop_id": "3932",
+        "stop_name": "Pasaj Grant",
+        "lat": 44.455753,
+        "lon": 26.061928
+      },
+      {
+        "stop_id": "3933",
+        "stop_name": "M Grivita",
+        "lat": 44.461994,
+        "lon": 26.057295
+      },
+      {
+        "stop_id": "3935",
+        "stop_name": "Lainici",
+        "lat": 44.466354,
+        "lon": 26.053877
+      },
+      {
+        "stop_id": "3937",
+        "stop_name": "Ministerul Transporturilor",
+        "lat": 44.44474,
+        "lon": 26.07822
+      },
+      {
+        "stop_id": "5942",
+        "stop_name": "M Laminorului",
+        "lat": 44.494995,
+        "lon": 26.031279
+      },
+      {
+        "stop_id": "5945",
+        "stop_name": "Cimitirul Straulesti",
+        "lat": 44.500156,
+        "lon": 26.027287
+      },
+      {
+        "stop_id": "5954",
+        "stop_name": "Calea Victoriei",
+        "lat": 44.445717,
+        "lon": 26.091475
+      },
+      {
+        "stop_id": "5956",
+        "stop_name": "Calea Victoriei",
+        "lat": 44.445656,
+        "lon": 26.091698
+      },
+      {
+        "stop_id": "6233",
+        "stop_name": "Nazarcea",
+        "lat": 44.49798,
+        "lon": 26.029251
+      },
+      {
+        "stop_id": "6332",
+        "stop_name": "Biblioteca Academiei Romane",
+        "lat": 44.444717,
+        "lon": 26.08858
+      },
+      {
+        "stop_id": "6434",
+        "stop_name": "Piata Romana",
+        "lat": 44.446087,
+        "lon": 26.097027
+      },
+      {
+        "stop_id": "6452",
+        "stop_name": "Bd. Dacia",
+        "lat": 44.4447,
+        "lon": 26.088816
+      },
+      {
+        "stop_id": "6457",
+        "stop_name": "Pajurei",
+        "lat": 44.48061,
+        "lon": 26.042772
+      },
+      {
+        "stop_id": "6458",
+        "stop_name": "Teatrul Dramaturgilor Romani",
+        "lat": 44.44562,
+        "lon": 26.082216
+      },
+      {
+        "stop_id": "6532",
+        "stop_name": "Popa Tatu",
+        "lat": 44.443275,
+        "lon": 26.083311
+      },
+      {
+        "stop_id": "6560",
+        "stop_name": "M Laminorului",
+        "lat": 44.495174,
+        "lon": 26.031464
+      },
+      {
+        "stop_id": "6561",
+        "stop_name": "Cimitirul Straulesti",
+        "lat": 44.500824,
+        "lon": 26.027052
+      },
+      {
+        "stop_id": "6588",
+        "stop_name": "Piata Romana",
+        "lat": 44.445347,
+        "lon": 26.097654
+      },
+      {
+        "stop_id": "6647",
+        "stop_name": "Nazarcea",
+        "lat": 44.497326,
+        "lon": 26.029505
+      },
+      {
+        "stop_id": "6648",
+        "stop_name": "Bd. Gloriei",
+        "lat": 44.482964,
+        "lon": 26.040646
+      },
+      {
+        "stop_id": "6837",
+        "stop_name": "Jimbolia",
+        "lat": 44.491295,
+        "lon": 26.034195
+      },
+      {
+        "stop_id": "6842",
+        "stop_name": "Jimbolia",
+        "lat": 44.492485,
+        "lon": 26.033525
+      },
+      {
+        "stop_id": "6848",
+        "stop_name": "Bd. Gloriei",
+        "lat": 44.48379,
+        "lon": 26.040283
+      },
+      {
+        "stop_id": "6886",
+        "stop_name": "Piata Unirii 2",
+        "lat": 44.425827,
+        "lon": 26.102823
+      },
+      {
+        "stop_id": "6903",
+        "stop_name": "Parcul Bazilescu",
+        "lat": 44.487732,
+        "lon": 26.036953
+      },
+      {
+        "stop_id": "6906",
+        "stop_name": "Parcul Bazilescu",
+        "lat": 44.48855,
+        "lon": 26.036612
+      },
+      {
+        "stop_id": "6987",
+        "stop_name": "Aviator Popisteanu",
+        "lat": 44.469177,
+        "lon": 26.059296
+      },
+      {
+        "stop_id": "7256",
+        "stop_name": "Universitate",
+        "lat": 44.434372,
+        "lon": 26.103134
+      },
+      {
+        "stop_id": "7262",
+        "stop_name": "Nuvelei",
+        "lat": 44.48534,
+        "lon": 26.038824
+      },
+      {
+        "stop_id": "7263",
+        "stop_name": "Nuvelei",
+        "lat": 44.486183,
+        "lon": 26.038418
+      },
+      {
+        "stop_id": "7383",
+        "stop_name": "Clabucet",
+        "lat": 44.47064,
+        "lon": 26.051867
+      },
+      {
+        "stop_id": "7411",
+        "stop_name": "Bd. Nicolae Balcescu",
+        "lat": 44.43989,
+        "lon": 26.10006
+      },
+      {
+        "stop_id": "7428",
+        "stop_name": "Piata Unirii 1",
+        "lat": 44.42739,
+        "lon": 26.100943
+      },
+      {
+        "stop_id": "7462",
+        "stop_name": "Piata 21 Decembrie 1989",
+        "lat": 44.43646,
+        "lon": 26.101799
+      },
+      {
+        "stop_id": "7514",
+        "stop_name": "Piata Unirii 5",
+        "lat": 44.428066,
+        "lon": 26.103987
+      },
+      {
+        "stop_id": "7774",
+        "stop_name": "M Straulesti",
+        "lat": 44.503826,
+        "lon": 26.024708
+      },
+      {
+        "stop_id": "7775",
+        "stop_name": "M Straulesti",
+        "lat": 44.503365,
+        "lon": 26.024195
+      },
+      {
+        "stop_id": "9239",
+        "stop_name": "Feroviarilor",
+        "lat": 44.46363,
+        "lon": 26.055727
+      },
+      {
+        "stop_id": "9240",
+        "stop_name": "Feroviarilor",
+        "lat": 44.464596,
+        "lon": 26.055285
+      }
+    ]
+  },
+  {
+    "route_id": "150",
+    "route_short_name": "102",
+    "route_long_name": "Complex Pantelimon - C.F.R. Progresul",
+    "stops": [
+      {
+        "stop_id": "10175",
+        "stop_name": "Tudor Gociu",
+        "lat": 44.378414,
+        "lon": 26.09533
+      },
+      {
+        "stop_id": "12098",
+        "stop_name": "Pantelimon",
+        "lat": 44.439564,
+        "lon": 26.181614
+      }
+    ]
+  }
+]
