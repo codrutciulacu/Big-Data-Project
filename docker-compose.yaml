@@ -16,6 +16,7 @@ x-airflow-common: &airflow-common
     - ./src/dag:/opt/airflow/dags
     - ./airflow/logs:/opt/airflow/logs
     - ./airflow/plugins:/opt/airflow/plugins
+    - ./frontend/public/exports:/opt/airflow/data_exports 
   user: "50000:0"
   depends_on:
     postgres:
@@ -94,7 +95,7 @@ services:
       POSTGRES_PASSWORD: gtfs_password
     volumes:
       - postgis_data:/var/lib/postgresql/data
-      - ./initdb:/docker-entrypoint-initdb.d
+      - ./initdb/init-postgis.sql:/docker-entrypoint-initdb.d/init-postgis.sql
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U gtfs_user -d gtfs"]
       interval: 10s
@@ -202,26 +203,6 @@ services:
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       KAFKA_GROUP_ID: gtfs-rt-poller-consumer
-  ml:
-    build:
-      context: ./src/ml
-      dockerfile: Dockerfile
-    container_name: gtfs-ml
-    volumes:
-      - .:/app
-    working_dir: /app
-    command: sleep infinity
-    depends_on:
-      postgis:
-        condition: service_healthy
-    environment:
-      RUNNING_IN_DOCKER: "1"
-      DB_HOST: postgis
-      DB_PORT: 5432
-      DB_NAME: gtfs
-      DB_USER: gtfs_user
-      DB_PASS: gtfs_password
-
 
 
 

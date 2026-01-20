@@ -74,8 +74,8 @@ with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(routes_list, f, ensure_ascii=False, indent=2)
 
 # Also write to frontend for automatic sync
-frontend_path = 'frontend/public/exports/routes_geo_latest.json'
-if os.path.exists('frontend/public/exports'):
+frontend_path = 'exports/routes_geo_latest.json'
+if os.path.exists('exports'):
     with open(frontend_path, 'w', encoding='utf-8') as f:
         json.dump(routes_list, f, ensure_ascii=False, indent=2)
     print(f"✅ Exported {len(routes_list)} routes to:")

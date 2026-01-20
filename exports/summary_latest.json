@@ -1,69 +1,69 @@
 {
-  "hour_ts": "2026-01-09T14:00:00",
-  "total_routes": 63,
+  "hour_ts": "2026-01-20T18:00:00",
+  "total_routes": 156,
   "needs_data": 0,
-  "suggestions": 63,
+  "suggestions": 156,
   "actions": {
-    "increase_frequency": 63
+    "increase_frequency": 156
   },
   "top_priority": [
     {
       "route_id": "112",
-      "priority_score": 0.6,
+      "priority_score": 0.8,
       "action": "increase_frequency",
       "message": "Increase frequency (over capacity target)"
     },
     {
       "route_id": "113",
-      "priority_score": 0.6,
+      "priority_score": 0.8,
       "action": "increase_frequency",
       "message": "Increase frequency (over capacity target)"
     },
     {
       "route_id": "116",
-      "priority_score": 0.6,
+      "priority_score": 0.8,
+      "action": "increase_frequency",
+      "message": "Increase frequency (over capacity target)"
+    },
+    {
+      "route_id": "117",
+      "priority_score": 0.8,
+      "action": "increase_frequency",
+      "message": "Increase frequency (over capacity target)"
+    },
+    {
+      "route_id": "119",
+      "priority_score": 0.8,
+      "action": "increase_frequency",
+      "message": "Increase frequency (over capacity target)"
+    },
+    {
+      "route_id": "121",
+      "priority_score": 0.8,
+      "action": "increase_frequency",
+      "message": "Increase frequency (over capacity target)"
+    },
+    {
+      "route_id": "124",
+      "priority_score": 0.8,
+      "action": "increase_frequency",
+      "message": "Increase frequency (over capacity target)"
+    },
+    {
+      "route_id": "126",
+      "priority_score": 0.8,
       "action": "increase_frequency",
       "message": "Increase frequency (over capacity target)"
     },
     {
       "route_id": "133",
-      "priority_score": 0.6,
+      "priority_score": 0.8,
       "action": "increase_frequency",
       "message": "Increase frequency (over capacity target)"
     },
     {
-      "route_id": "137",
-      "priority_score": 0.6,
-      "action": "increase_frequency",
-      "message": "Increase frequency (over capacity target)"
-    },
-    {
-      "route_id": "139",
-      "priority_score": 0.6,
-      "action": "increase_frequency",
-      "message": "Increase frequency (over capacity target)"
-    },
-    {
-      "route_id": "140",
-      "priority_score": 0.6,
-      "action": "increase_frequency",
-      "message": "Increase frequency (over capacity target)"
-    },
-    {
-      "route_id": "141",
-      "priority_score": 0.6,
-      "action": "increase_frequency",
-      "message": "Increase frequency (over capacity target)"
-    },
-    {
-      "route_id": "145",
-      "priority_score": 0.6,
-      "action": "increase_frequency",
-      "message": "Increase frequency (over capacity target)"
-    },
-    {
-      "route_id": "147",
-      "priority_score": 0.6,
+      "route_id": "134",
+      "priority_score": 0.8,
       "action": "increase_frequency",
       "message": "Increase frequency (over capacity target)"
     }
