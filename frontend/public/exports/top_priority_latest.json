@@ -1,0 +1,822 @@
+[
+  {
+    "route_id": "112",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 61.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 61.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "113",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 55.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 55.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "116",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 77.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 77.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "117",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 54.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 54.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "119",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 68.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 68.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "121",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 62.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 62.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "124",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 71.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 71.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "126",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 71.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 71.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "133",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 69.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 69.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "134",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 47.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 47.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "136",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 49.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 49.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "137",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 30.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 30.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "139",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 14.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 14.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "140",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 34.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 34.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "141",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 69.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 69.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "143",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 37.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 37.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "144",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 36.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 36.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "145",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 43.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 43.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "146",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 71.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "decrease_frequency",
+      "status": "missing_both",
+      "message": "Decrease frequency (under-utilized, off-peak)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 71.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  },
+  {
+    "route_id": "147",
+    "hour_ts": "2026-01-20T22:00:00",
+    "kpi": {
+      "predicted_passengers": 384.4575219672856,
+      "observed_passengers": 19.0,
+      "active_vehicles": 0,
+      "avg_headway_min": null,
+      "is_peak_hour": 0
+    },
+    "suggestion": {
+      "action": "increase_frequency",
+      "status": "missing_both",
+      "message": "Increase frequency (over capacity target)",
+      "current_headway_min": 12.0,
+      "recommended_headway_min": 10.429653835181282,
+      "delta_headway_min": -1.5703461648187176,
+      "delta_headway_pct": -13.086218040155984,
+      "priority_score": 0.4252200585794282,
+      "confidence": 0.9014662243715001,
+      "reasons": {
+        "rule": "ppt > cap_target",
+        "confidence": 0.9014662243715001,
+        "is_peak_hour": 0,
+        "active_vehicles": 0,
+        "avg_headway_min": null,
+        "cap_low_per_trip": 24.0,
+        "avg_delay_seconds": 0.0,
+        "trips_per_hour_est": 5.0,
+        "cap_target_per_trip": 45.0,
+        "current_headway_min": 12.0,
+        "observed_passengers": 19.0,
+        "load_factor_per_hour": 1.2815250732242853,
+        "predicted_passengers": 384.4575219672856,
+        "capacity_est_per_hour": 300.0,
+        "trips_per_hour_target": 8.543500488161902,
+        "passengers_per_trip_est": 76.89150439345711,
+        "raw_recommended_headway_min": 7.022882492151498
+      }
+    }
+  }
+]
